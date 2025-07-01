@@ -1,13 +1,8 @@
 ---
 ---
 
-@import "minimal-mistakes/skins/mint"
-; // Use mint skin as a base
+$accent-color: #8e44ad
+; // define your custom color first!
 
-$accent-color: #8e44ad; // Your custom purple
-
-@import "minimal-mistakes"; // Import theme after override
-
-body {
-  background-color: pink !important;
-}
+@import "minimal-mistakes/skins/mint"; // now uses your override
+@import "minimal-mistakes";
