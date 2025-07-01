@@ -1,3 +1,6 @@
 title: Jasmin Palmer
 description: My personal site
-theme: jekyll-theme-minimal
+remote_theme: mmistakes/minimal-mistakes
+plugins:
+  - jekyll-remote-theme
+
