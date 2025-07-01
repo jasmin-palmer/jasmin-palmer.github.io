@@ -12,14 +12,11 @@ defaults:
     values:
       layout: single
 
-# Navigation menu
-navigation:
-  - title: "Home"
-    url: /
-  - title: "About"
-    url: /about/
-  - title: "Projects"
-    url: /projects/
+# Simple navigation setup for GitHub Pages
+header_pages:
+  - index.md
+  - about.md
+  - projects.md
 
 # Optional settings
 markdown: kramdown
