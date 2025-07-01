@@ -8,3 +8,6 @@ $accent-color: #8e44ad; // Your custom purple
 
 @import "minimal-mistakes"; // Import theme after override
 
+body {
+  background-color: pink !important;
+}
