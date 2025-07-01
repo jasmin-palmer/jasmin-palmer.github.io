@@ -4,3 +4,13 @@ remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-remote-theme
 
+
+# Simple navigation setup for GitHub Pages
+header_pages:
+  - index.md
+  - about.md
+  - projects.md
+
+# Optional settings
+markdown: kramdown
+highlighter: rouge
