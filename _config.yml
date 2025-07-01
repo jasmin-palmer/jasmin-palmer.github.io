@@ -4,20 +4,3 @@ remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-remote-theme
 
-# Optional: sets default layout for all pages
-defaults:
-  - scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: single
-
-# Simple navigation setup for GitHub Pages
-header_pages:
-  - index.md
-  - about.md
-  - projects.md
-
-# Optional settings
-markdown: kramdown
-highlighter: rouge
