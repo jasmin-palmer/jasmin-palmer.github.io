@@ -1,0 +1,15 @@
+---
+---
+/* Define your custom color variables directly */
+$accent-color: #8e44ad;
+
+$link-color: #8e44ad;
+$btn-primary-color: #8e44ad;
+
+/* Optional: override more if needed */
+$primary-color: #8e44ad;
+$text-color: #333;
+$border-color: #8e44ad;
+
+/* Import the rest of the theme */
+@import "minimal-mistakes";
