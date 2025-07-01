@@ -1,6 +1,6 @@
 title: Jasmin Palmer
 description: My personal site
-remote_theme: benbalter/retlab
+remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-remote-theme
 
