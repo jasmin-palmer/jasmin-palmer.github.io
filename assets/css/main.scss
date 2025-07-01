@@ -1,10 +1,10 @@
 ---
-# Only needed to make Jekyll treat it as a special file
 ---
 
 @import "minimal-mistakes/skins/mint"
-; // Use mint as a base
-@import "minimal-mistakes"; // Load the rest of the theme
+; // Use mint skin as a base
 
-// Override accent color (after the theme has loaded)
-$accent-color: #825096; // ← This is a medium purple
+$accent-color: #8e44ad; // Your custom purple
+
+@import "minimal-mistakes"; // Import theme after override
+
