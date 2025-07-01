@@ -9,7 +9,3 @@ header_pages:
   - index.md
   - about.md
   - projects.md
-
-# Optional settings
-markdown: kramdown
-highlighter: rouge
