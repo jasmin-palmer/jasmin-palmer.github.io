@@ -12,7 +12,7 @@ header:
   caption: "J. E. Palmer, et al., 2024"
 excerpt: "Let's learn about me because I'm just so great!"
 intro: 
-  - excerpt: ""Hello World :D""
+  - excerpt: "Hello World!!"
 feature_row:
   - image_path: /assets/images/EvieGrad2.jpg
     image_caption: "Image courtesy of Dr. Evie"
@@ -29,7 +29,6 @@ feature_row:
   - image_path: /assets/images/EvieGrad2.jpg
     title: "Placeholder 3"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-
 ---
 
 {% include feature_row id="intro" type="center" %}
