@@ -10,8 +10,8 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
-  # - title: "Home"
-  #   url: https://jasmin-palmer.github.io/
+  - title: "Home"
+    url: https://jasmin-palmer.github.io/
   - title: "About"
     url: /about/
   - title: "Research"
