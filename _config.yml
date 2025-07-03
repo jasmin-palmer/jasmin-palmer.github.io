@@ -125,7 +125,6 @@ author:
       url: "mailto:jasminp@alumni.stanford.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-<<<<<<< HEAD
       url: "https://jasmin-palmer.github.io"
     - label: "LinkedIn"
       icon: "fa-brands fa-linkedin"
@@ -154,32 +153,16 @@ author:
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
     #   url: "https://instagram.com/"
-=======
-      # url: "https://jasmin-palmer.github.io"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
->>>>>>> parent of ff06634 (Update _config.yml)
 
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
       # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
+    # - label: "Facebook"
+    #   icon: "fab fa-fw fa-facebook-square"
       # url:
-<<<<<<< HEAD
     - label: "LinkedIn"
       icon: "fa-brands fa-linkedin"
       url: "www.linkedin.com/in/jasmin-e-palmer-phd"
@@ -203,19 +186,6 @@ footer:
     #   url:
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
-=======
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
->>>>>>> parent of ff06634 (Update _config.yml)
       # url:
 
 
@@ -382,3 +352,4 @@ defaults:
       comments: false # true
       share: true
       related: true
+
