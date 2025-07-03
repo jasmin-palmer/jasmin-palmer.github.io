@@ -1,8 +1,8 @@
 ---
-title: "Layout: Post with Table of Contents"
+title: "Stanford Research"
 header:
-  image: assets/images/unsplash-image-9.jpg
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  image: assets/images/EvieGrad.jpg
+  caption: "Photo credit: ..."
 tags:
   - table of contents
 toc: true
