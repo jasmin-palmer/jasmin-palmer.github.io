@@ -16,5 +16,10 @@ main:
     url: /about/
   - title: "Research"
     url: /research/
+    children:
+    - title: "JHU Research"
+      url: /research_JHU/
+    - title: "Stanford Research"
+      url: /research_Stanford/
   - title: "Projects"
     url: /projects/

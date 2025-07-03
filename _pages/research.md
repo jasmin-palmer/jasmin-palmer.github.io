@@ -7,8 +7,8 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/splash-image.jpg
   actions:
-    - label: "Learn More"
-      url: "/terms/"
+    - label: "Check out my ORCiD"
+      url: "https://orcid.org/0009-0004-5337-8143"
   caption: "J. E. Palmer, et al., 2024"
 excerpt: "This is Jasmin's Research Page!"
 intro: 
@@ -17,15 +17,15 @@ feature_row:
   - image_path: /assets/images/EvieGrad2.jpg
     image_caption: "Image courtesy of Dr. Evie"
     alt: "placeholder image 2"
-    title: "Placeholder Image Left Aligned"
+    title: "Stanford Reserach"
     excerpt: 'My PhD work at Stanford University. '
-    url: "#test-link"
+    url: "/research_Stanford/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row2:
   - image_path: /assets/images/EvieGrad.png
     alt: "placeholder image 2"
-    title: "Placeholder Image Right Aligned"
+    title: "JHU Research"
     excerpt: "My work at Johns Hopkins University"
     url: "/research_JHU/"
     btn_label: "Read More"
@@ -33,7 +33,7 @@ feature_row2:
 feature_row3:
   - image_path: /assets/images/EvieGrad2.jpg
     alt: "placeholder image 2"
-    title: "Placeholder Image Center Aligned"
+    title: "MIT UROP Research"
     excerpt: "My UROP projects at MIT"
     url: "#test-link"
     btn_label: "Read More"
