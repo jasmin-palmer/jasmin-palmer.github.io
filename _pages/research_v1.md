@@ -1,7 +1,7 @@
 ---
 title: "Research"
 layout: splash
-permalink: /research/
+permalink: /research_v1/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
@@ -13,8 +13,7 @@ header:
 excerpt: "This is Jasmin's Research Page!"
 intro: 
   - excerpt: "This is my research. It's revolutionary!"
-
-  feature_row:
+feature_row:
   - image_path: /assets/images/EvieGrad2.jpg
     image_caption: "Image courtesy of Dr. Evie"
     alt: "placeholder image 2"
@@ -23,6 +22,7 @@ intro:
     url: "/research_Stanford/"
     btn_label: "Read More"
     btn_class: "btn--primary"
+feature_row2:
   - image_path: /assets/images/EvieGrad.png
     alt: "placeholder image 2"
     title: "JHU Research"
@@ -30,6 +30,7 @@ intro:
     url: "/research_JHU/"
     btn_label: "Read More"
     btn_class: "btn--primary"
+feature_row3:
   - image_path: /assets/images/EvieGrad2.jpg
     alt: "placeholder image 2"
     title: "MIT UROP Research"
@@ -39,6 +40,10 @@ intro:
     btn_class: "btn--primary"
 ---
 
-{% include feature_row id="intro" type="center" %}
+{% include feature_row id="intro" type="left" %}
 
 {% include feature_row %}
+
+{% include feature_row id="feature_row2" type="right" %}
+
+{% include feature_row id="feature_row3" type="left" %}
