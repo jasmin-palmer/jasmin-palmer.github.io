@@ -22,7 +22,7 @@ feature_row:
     url: "/research_Stanford/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/EvieGrad.png
+  - image_path: /assets/images/EvieGrad2.jpg
     alt: "placeholder image 2"
     title: "JHU Research"
     excerpt: "My work at Johns Hopkins University"

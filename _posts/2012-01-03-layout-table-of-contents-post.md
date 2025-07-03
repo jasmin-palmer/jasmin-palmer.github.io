@@ -1,9 +1,8 @@
 ---
-title: "Stanford Research"
-permalink: /research_Stanford/
+title: "Layout: Post with Table of Contents"
 header:
-  image: assets/images/EvieGrad.jpg
-  caption: "Photo credit: ..."
+  image: assets/images/unsplash-image-9.jpg
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 tags:
   - table of contents
 toc: true
