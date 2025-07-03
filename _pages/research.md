@@ -13,8 +13,7 @@ header:
 excerpt: "This is Jasmin's Research Page!"
 intro: 
   - excerpt: "This is my research. It's revolutionary!"
-
-  feature_row:
+feature_row:
   - image_path: /assets/images/EvieGrad2.jpg
     image_caption: "Image courtesy of Dr. Evie"
     alt: "placeholder image 2"
