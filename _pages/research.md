@@ -27,7 +27,7 @@ feature_row2:
     alt: "placeholder image 2"
     title: "Placeholder Image Right Aligned"
     excerpt: "My work at Johns Hopkins University"
-    url: "#test-link"
+    url: "/research_JHU/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row3:
