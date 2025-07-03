@@ -354,3 +354,16 @@ defaults:
       related: true
 
 
+# Defaults
+jhu_posts:
+  # _posts_JHU
+  - scope:
+      path: ""
+      type: posts_JHU
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: false # true
+      share: true
+      related: true
