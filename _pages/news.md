@@ -5,38 +5,38 @@ permalink: /news/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/EvieGrad2.jpg
+  overlay_image: /assets/images/splash-image.jpg
   actions:
-    - label: "learn more"
-      url: "/terms/"
-  caption: "j. e. palmer, et al., 2024"
-excerpt: "this is jasmin's projects page!"
+    - label: "Check out my ORCiD"
+      url: "https://orcid.org/0009-0004-5337-8143"
+  caption: "J. E. Palmer, et al., 2024"
+excerpt: "This is Jasmin's Research Page!"
 intro: 
-  - excerpt: "these are my projects. aren't they the coolest?!"
+  - excerpt: "This is my research. It's revolutionary!"
 feature_row:
   - image_path: /assets/images/EvieGrad2.jpg
-    image_caption: "image courtesy of dr. evie"
+    image_caption: "Image courtesy of Dr. Evie"
     alt: "placeholder image 2"
-    title: "placeholder image left aligned"
-    excerpt: 'this is some sample content that goes here with **markdown** formatting. left aligned with `type="left"`'
-    url: "#test-link"
-    btn_label: "read more"
+    title: "Stanford Reserach"
+    excerpt: 'My PhD work at Stanford University. '
+    url: "/research_Stanford/"
+    btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row2:
-  - image_path: /assets/images/eviegrad.png
+  - image_path: /assets/images/EvieGrad.png
     alt: "placeholder image 2"
-    title: "placeholder image right aligned"
-    excerpt: 'this is some sample content that goes here with **markdown** formatting. right aligned with `type="right"`'
-    url: "#test-link"
-    btn_label: "read more"
+    title: "JHU Research"
+    excerpt: "My work at Johns Hopkins University"
+    url: "/research_JHU/"
+    btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row3:
   - image_path: /assets/images/EvieGrad2.jpg
     alt: "placeholder image 2"
-    title: "placeholder image center aligned"
-    excerpt: 'this is some sample content that goes here with **markdown** formatting. centered with `type="center"`'
+    title: "MIT UROP Research"
+    excerpt: "My UROP projects at MIT"
     url: "#test-link"
-    btn_label: "read more"
+    btn_label: "Read More"
     btn_class: "btn--primary"
 ---
 
