@@ -24,7 +24,7 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "Jasmin E. Palmer, PhD"
 description              : "An amazing website."
 url                      : "https://jasmin-palmer.github.io" # the base hostname & protocol for your site e.g.
-baseurl                  : / # the subpath of your site, e.g. "/blog"
+baseurl                  : /home # the subpath of your site, e.g. "/blog"
 repository               : "jasmin-palmer/jasmin-palmer" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/Teaser.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/SiteHeadLogo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
