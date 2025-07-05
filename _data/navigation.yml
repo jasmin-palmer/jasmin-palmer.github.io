@@ -10,10 +10,10 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
-  # - title: "Home"
-  #  url: https://jasmin-palmer.github.io/ # url: /home/
-  - title: "About"
-    url: /about/
+  - title: "Home"
+    url: https://jasmin-palmer.github.io/ # url: /home/
+  # - title: "About"
+  #   url: /about/
   - title: "Research"
     url: /research/
     children:
@@ -23,3 +23,5 @@ main:
       url: /research_Stanford/
   - title: "Projects"
     url: /projects/
+  - title: "News"
+    url: /news/

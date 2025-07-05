@@ -1,49 +1,32 @@
 ---
 title: "Projects"
-layout: splash
 permalink: /projects/
+excerpt: "These are my lovely projects"
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /assets/images/EvieGrad2.jpg
-  actions:
-    - label: "Learn More"
-      url: "/terms/"
-  caption: "J. E. Palmer, et al., 2024"
-excerpt: "This is Jasmin's Projects Page!"
-intro: 
-  - excerpt: "These are my projects. Aren't they the coolest?!"
-feature_row:
-  - image_path: /assets/images/EvieGrad2.jpg
-    image_caption: "Image courtesy of Dr. Evie"
+  image: /assets/images/EvieGrad2.jpg
+  teaser: assets/images/EvieGrad2.jpg
+sidebar:
+  - title: "Role"
+    image: http://placehold.it/350x250
+    image_alt: "logo"
+    text: "Designer, Front-End Developer"
+  - title: "Responsibilities"
+    text: "Reuters try PR stupid commenters should isn't a business model"
+gallery:
+  - url: /assets/images/EvieGrad.png
+    image_path: assets/images/EvieGrad2.jpg
+    alt: "placeholder image 1"
+  - url: /assets/images/EvieGrad.png
+    image_path: assets/images/EvieGrad2.jpg
     alt: "placeholder image 2"
-    title: "Placeholder Image Left Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-feature_row2:
-  - image_path: /assets/images/EvieGrad.png
-    alt: "placeholder image 2"
-    title: "Placeholder Image Right Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-feature_row3:
-  - image_path: /assets/images/EvieGrad2.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Center Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+  - url: /assets/images/EvieGrad.png
+    image_path: assets/images/EvieGrad2.jpg
+    alt: "placeholder image 3"
 ---
 
-{% include feature_row id="intro" type="left" %}
+blah blah blah
 
-{% include feature_row %}
+{% include gallery caption="This is a sample gallery to go along with this case study." %}
 
-{% include feature_row id="feature_row2" type="right" %}
+blah blah
 
-{% include feature_row id="feature_row3" type="left" %}
