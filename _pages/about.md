@@ -2,6 +2,7 @@
 title: "About"
 permalink: /about/
 author_profile: true
+layout: posts
 categories:
   - Post Formats
 tags:
