@@ -1,24 +1,13 @@
 ---
-title: "About"
+layout: single
+title: "About Me"
 permalink: /about/
 author_profile: true
-layout: posts
-categories:
-  - Post Formats
-tags:
-  - image
-  - Post Formats
+header:
+  overlay_image: /assets/images/BioPhotov2.png
+  caption: "Photo by [Your Name]"
+  overlay_filter: 0.3
 ---
 
+I’m Jasmin Palmer, a PhD researcher specializing in haptics and XR. I work on making immersive virtual environments more tangible and intuitive...
 
-{% capture fig_img %}
-![Foo]({{ '/assets/images/EvieGrad2.jpg' | relative_url }})
-{% endcapture %}
-
-<figure>
-  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
-  <figcaption>Photo from Evie.</figcaption>
-</figure>
-
-
-Testing writing a post....
