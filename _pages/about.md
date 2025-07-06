@@ -1,7 +1,6 @@
 ---
 title: "About"
 permalink: /about/
-author_profile: true
 categories:
   - Post Formats
 tags:
@@ -9,7 +8,11 @@ tags:
   - Post Formats
 ---
 
-image_path: /assets/images/EvieGrad2.jpg
+author_profile: true
+
+{% capture fig_img %}
+![Foo]({{ '/assets/images/EvieGrad2.jpg' | relative_url }})
+{% endcapture %}
 
 <figure>
   {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
