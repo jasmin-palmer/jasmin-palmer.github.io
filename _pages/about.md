@@ -20,6 +20,6 @@ feature_row:
     btn_class: "btn--primary"
 ---
 
-{% include feature_row id="intro" type="justify" %}
+{% include feature_row id="intro" type="left" %}
 
 {% include feature_row %}
