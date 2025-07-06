@@ -1,13 +1,13 @@
 ---
 title: "In vivo photoacoustic imaging of major blood vessels in the pancreas and liver during surgery"
 header:
-  overlay_color: "#4b326e"
+  image: assets/images/EvieGrad2.jpg
+  caption: "Photo credit: ..."
 tags:
   - table of contents
 toc: true
-toc_sticky: true
 toc_label: "Unique Title"
-toc_icon: "cog"
+toc_icon: "heart"
 ---
 
 Enable table of contents on post or page by adding `toc: true` to its YAML Front Matter. The title and icon can also be changed with:
@@ -16,7 +16,7 @@ Enable table of contents on post or page by adding `toc: true` to its YAML Front
 ---
 toc: true
 toc_label: "Unique Title"
-toc_icon: "cog"  # corresponding Font Awesome icon name (without fa prefix)
+toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
 ---
 ```
 
