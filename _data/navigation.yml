@@ -12,8 +12,8 @@ main:
   #   url: /sitemap/
   - title: "Home"
     url: https://jasmin-palmer.github.io/ # url: /home/
-  # - title: "About"
-  #   url: /about/
+  - title: "About"
+    url: /about/
   - title: "Research"
     url: /research/
     children:

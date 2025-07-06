@@ -9,22 +9,11 @@ tags:
   - Post Formats
 ---
 
-The preferred way of using images is placing them in the `/assets/images/` directory and referencing them with an absolute path. Prepending the filename with `{% raw %}{{ site.url }}{{ site.baseurl }}/assets/images/{% endraw %}` will make sure your images display properly in feeds and such.
+{% capture fig_img %}
+![Foo]({{ '/assets/images/EvieGrad2.jpg' | relative_url }})
+{% endcapture %}
 
-Standard image with no width modifier classes applied.
-
-```markdown
-{% raw %}![alt]({{ site.url }}{{ site.baseurl }}/assets/images/EvieGrad2.jpg){% endraw %}
-```
-
-![Unsplash image 9]({{ site.url }}{{ site.baseurl }}/assets/images/unsplash-image-9.jpg)
-
-Image that fills page content container by adding the `.full` class with:
-
-```markdown
-{% raw %}![alt]({{ site.url }}{{ site.baseurl }}/assets/images/EvieGrad2.jpg)
-{: .full}{% endraw %}
-```
-
-![Unsplash image 10]({{ site.url }}{{ site.baseurl }}/assets/images/splash-image.jpg)
-{: .full}
+<figure>
+  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
+  <figcaption>Photo from Evie.</figcaption>
+</figure>
