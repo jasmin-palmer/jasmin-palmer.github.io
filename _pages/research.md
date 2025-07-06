@@ -12,7 +12,7 @@ header:
   caption: "J. E. Palmer, et al., 2024"
 excerpt: "This is Jasmin's Research Page!"
 intro: 
-  - excerpt: "I am a Mechanical Engineer by trade with nearly 10 years of research experience at Stanford, Johns Hopkins University, MIT, and USC! My research focus is in robotics, haptics, and XR. Please see more here!"
+  - excerpt: "I am a Mechanical Engineer with a specialty in robotics and wearable devices by trade with over 10 years of engineering and research experience at MIT , Stanford, Johns Hopkins University, USC, and more! My research focus is in robotics, haptics, and XR. Please see more here!"
 feature_row:
   - image_path: /assets/images/EvieGrad2.jpg
     image_caption: "Image courtesy of Dr. Evie"
