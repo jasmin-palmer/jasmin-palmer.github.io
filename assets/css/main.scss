@@ -7,8 +7,3 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
-
-.author__avatar img {
-  width: 180px; // Default is 100px
-  height: 180px;
-}
