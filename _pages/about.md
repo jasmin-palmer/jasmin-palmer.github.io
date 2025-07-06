@@ -1,6 +1,7 @@
 ---
 title: "About"
 permalink: /about/
+author_profile: true
 categories:
   - Post Formats
 tags:
@@ -8,7 +9,6 @@ tags:
   - Post Formats
 ---
 
-author_profile: true
 
 {% capture fig_img %}
 ![Foo]({{ '/assets/images/EvieGrad2.jpg' | relative_url }})
@@ -18,3 +18,6 @@ author_profile: true
   {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
   <figcaption>Photo from Evie.</figcaption>
 </figure>
+
+
+Testing writing a post....
