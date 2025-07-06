@@ -9,9 +9,7 @@ tags:
   - Post Formats
 ---
 
-{% capture fig_img %}
-![Foo]({{ '/assets/images/EvieGrad2.jpg' | relative_url }})
-{% endcapture %}
+image_path: /assets/images/EvieGrad2.jpg
 
 <figure>
   {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
