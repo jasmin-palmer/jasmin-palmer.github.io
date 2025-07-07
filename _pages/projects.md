@@ -45,31 +45,31 @@ gallery1:
   
 gallery2:
   - url: /projects/2THUProject/
-    image_path: /assets/images/EvieGrad2.jpg
+    image_path: /assets/images/2THU_Project/2THU_GalleryIcon.png
     alt: "2.THU Undergrad Thesis"
     title: "2.THU Undergrad Thesis"
   - url: /projects/278Project/
-    image_path: /assets/images/EvieGrad2.jpg
+    image_path: /assets/278_Project/278_GalleryIcon.png
     alt: "2.78 Assistive Technology Class Final Project"
     title: "2.78 Assistive Technology Class Final Project"
   - url: /projects/2678Project/
-    image_path: /assets/images/EvieGrad2.jpg
+    image_path: /assets/images/2678_Project/2678_GalleryIcon.png
     alt: "2.678 Electronics for Mechanical System Final Project"
     title: "2.678 Electronics for Mechanical Systems Final Project"
   - url: /projects/2008Project/
-    image_path: /assets/images/EvieGrad2.jpg
+    image_path: /assets/images/2008_Project/2008_GalleryIcon.png
     alt: "2.008 Design and Manufacturing II Final Project"
     title: "2.008 Design and Manufacturing II Final Project"
   - url: /projects/212Project/
-    image_path: /assets/images/EvieGrad2.jpg
+    image_path: /assets/images/212_Project/212_GalleryIcon.png
     alt: "2.12 Introduction to Robotics Final Project"
     title: "2.12 Introduction to Robotics Final Project"
   - url: /projects/2007Project/
-    image_path: /assets/images/EvieGrad2.jpg
+    image_path: /assets/images/2007_Project/2007_GalleryIcon.png
     alt: "2.007 Design and Manufacturing I Final Project"
     title: "2.007 Design and Manufacturing I Final Project"
   - url: /projects/fpopDMEProject/
-    image_path: /assets/images/EvieGrad2.jpg
+    image_path: /assets/images/fpopDME_Project/fpopDME_GalleryIcon.png
     alt: "MIT FPOP Project - Discovering Mechanical Engineering"
     title: "MIT FPOP Project - Discovering Mechanical Engineering"
 
@@ -84,7 +84,7 @@ gallery3:
 
 From 2019-2025
 
-{% include gallery id="gallery1" class="full" caption="This is a gallery with **Markdown support**." type="center" %}
+{% include gallery id="gallery1" class="full" caption="" type="center" %}
 
 This is some text after the gallery just to make sure that everything aligns properly.
 
@@ -92,7 +92,7 @@ This is some text after the gallery just to make sure that everything aligns pro
 
 From 2015-2019
 
-{% include gallery id="gallery2" class="full" caption="This is a second gallery example with images hosted externally." type="center" %}
+{% include gallery id="gallery2" class="full" caption="" type="center" %}
 
 <!--
 ## Gallery 3

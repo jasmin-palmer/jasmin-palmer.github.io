@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "2.THU Undergrad Thesis"
-permalink: /projects/2THU/
+permalink: /projects/2THUProject/
 author_profile: true
 header:
   overlay_color: "#8d64a3"
@@ -29,11 +29,14 @@ intro:
 
 2.THU Undergrad Thesis
 
+<div markdown="0"><a href="https://dspace.mit.edu/handle/1721.1/123272" class="btn">My Thesis</a></div> 
+
+
 Feet!
 
 ## Skills
 
-Computer-Aided Design (Solidworks), 3D Printing, Arduino, C++
+Computer-Aided Design (Solidworks), 3D Printing, Arduino, C++, Mechanical Stress Testing, Finite Element Analysis
 
 {% capture fig_img %}
 ![Foo]({{ '/assets/images/MARSS2024-FingerProxy-Cropped.png' | relative_url }})

@@ -8,8 +8,9 @@ header:
 categories:
   - Projects
 tags:
-  - CAD
   - Solidworks
+  - CAD
+  - Robotics
 toc: true
 toc_sticky: true
 toc_label: "Table of Contents"

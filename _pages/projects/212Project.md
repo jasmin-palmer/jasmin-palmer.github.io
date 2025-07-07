@@ -8,9 +8,9 @@ header:
 categories:
   - Projects
 tags:
-  - Assistive Technology
-  - CAD
+  - Robotics
   - Solidworks
+  - CAD
 toc: true
 toc_sticky: true
 toc_label: "Table of Contents"

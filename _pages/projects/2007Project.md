@@ -8,8 +8,8 @@ header:
 categories:
   - Projects
 tags:
-  - CAD
   - Solidworks
+  - CAD
   - Robotics
 toc: true
 toc_sticky: true
@@ -28,6 +28,12 @@ intro:
 Design and Manufacturing I
 
 Robots and Star Wars!
+
+
+<div markdown="0"><a href="https://livestream.com/accounts/2261474/events/7345573/videos/156100535" class="btn">Webcast from Competition Day!</a></div> 
+
+
+
 
 ## Skills
 

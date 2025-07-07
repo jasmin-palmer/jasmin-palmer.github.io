@@ -8,8 +8,8 @@ header:
 categories:
   - Projects
 tags:
-  - CAD
   - Solidworks
+  - CAD
   - Injection Molding
 toc: true
 toc_sticky: true
@@ -27,7 +27,10 @@ intro:
 
 Design and Manufacturing II
 
-Lots of yo-yos!
+
+<div markdown="0"><a href="https://studioyoyo.wordpress.com/" class="btn">Lots of Yo-Yos!</a></div> 
+
+
 
 ## Skills
 
