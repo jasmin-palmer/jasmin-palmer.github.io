@@ -13,15 +13,29 @@ tags:
   - Haptics
 toc: true
 toc_sticky: true
+toc_label: "Table of Contents"
+toc_icon: "cog"
+read_time: true
+comments: false
+share: false
+related: true
 intro: 
-  - excerpt: "MARSS 2024 Hacakthong"
+  - excerpt: "MARSS 2024 Hacakthon"
 ---
 
+## About
+
+Medical Mixed Reality simulation with haptic and auditory augmentations for laproscopic procedures.
+
+## Skills
+
+Unity, C#, Arduino, 3D Printing
+
 {% capture fig_img %}
-![Foo]({{ '/assets/images/EvieGrad2.jpg' | relative_url }})
+![Foo]({{ '/assets/images/MARSS2024-FingerProxy-Cropped.png' | relative_url }})
 {% endcapture %}
 
 <figure>
   {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
-  <figcaption>Photo from Unsplash.</figcaption>
+  <figcaption>Screenshot of AR Porcine Anatomy in Unity Scene.</figcaption>
 </figure>

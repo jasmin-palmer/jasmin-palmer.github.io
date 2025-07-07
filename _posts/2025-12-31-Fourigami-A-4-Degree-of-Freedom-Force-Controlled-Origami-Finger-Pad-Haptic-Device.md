@@ -8,6 +8,10 @@ toc: true
 toc_sticky: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
+read_time: true
+comments: false
+share: false
+related: true
 ---
 
 ## Contributions
