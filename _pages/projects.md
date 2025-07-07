@@ -84,7 +84,7 @@ gallery3:
 
 From 2019-2025
 
-{% include gallery class="full" caption="This is a gallery with **Markdown support**." %}
+{% include gallery class="full" caption="This is a gallery with **Markdown support**." type="center" %}
 
 This is some text after the gallery just to make sure that everything aligns properly.
 
@@ -92,7 +92,7 @@ This is some text after the gallery just to make sure that everything aligns pro
 
 From 2015-2019
 
-{% include gallery id="gallery2" class="full" caption="This is a second gallery example with images hosted externally." %}
+{% include gallery id="gallery2" class="full" caption="This is a second gallery example with images hosted externally." type="center" %}
 
 <!--
 ## Gallery 3
