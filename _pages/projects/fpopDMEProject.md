@@ -25,19 +25,32 @@ intro:
 
 ## About
 
-MIT FPOP Project - Discovering Mechanical Engineering
+MIT hosts several Freshan Pre-Orientation Programs (FPOPs) the week before the Fall semester begins to introduce students to a specific discipline. 
 
-Robots and Soccers!
+I attended the Discover Mechanical Engineering (DME) FPOP (my first choice as an aspiring roboticist)!
 
-## Skills
+The goal of DME is to introduce students who do not have a strong background in engineering to the basics of design and manufacturing, which is accomplished in the *best* way possible by building competitive robots. 
 
-Computer-Aided Design (Solidworks), 3D Printing, Arduino, C++
+We were tasked with building a remote-controlled robot to play soccer.
 
 {% capture fig_img %}
-![Foo]({{ '/assets/images/MARSS2024-FingerProxy-Cropped.png' | relative_url }})
+![Foo]({{ '/assets/images/fpopDME_Project/ClutzTheRobotWithController.png' | relative_url }})
 {% endcapture %}
 
 <figure>
   {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
-  <figcaption>Screenshot of Virtual Porcine Anatomy in Unity Scene.</figcaption>
+  <figcaption>Clutz The Robot With Controller.</figcaption>
 </figure>
+
+{% capture fig_img %}
+![Foo]({{ '/assets/images/fpopDME_Project/ClutzTheRobot.png' | relative_url }})
+{% endcapture %}
+
+<figure>
+  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
+  <figcaption>Clutz The Robot.</figcaption>
+</figure>
+
+## Skills
+
+Computer-Aided Design (Solidworks), 3D Printing, Arduino, C++
