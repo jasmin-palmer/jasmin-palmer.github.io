@@ -8,7 +8,7 @@ tags:
 toc: true
 toc_sticky: true
 toc_label: "Table of Contents"
-toc_icon: "heart"
+toc_icon: "cog"
 ---
 
 J. E. Palmer, B. B. Vuong, Z. Zhakypov, Y. Qin, L. Tilton and A. M. Okamura, "Haptic Relocation of Virtual Finger Forces via Pneumatic Wrist-Worn Haptic Devices," 2024 IEEE Haptics Symposium (HAPTICS), Long Beach, CA, USA, 2024, pp. 315-320, doi: 10.1109/HAPTICS59260.2024.10520855.

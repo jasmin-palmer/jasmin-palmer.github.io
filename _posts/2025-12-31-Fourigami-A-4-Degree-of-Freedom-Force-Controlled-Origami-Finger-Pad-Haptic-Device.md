@@ -7,7 +7,7 @@ tags:
 toc: true
 toc_sticky: true
 toc_label: "Table of Contents"
-toc_icon: "heart"
+toc_icon: "cog"
 ---
 
 ## Contributions
