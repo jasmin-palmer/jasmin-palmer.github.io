@@ -19,9 +19,9 @@ tags:
   - Wearable Devices
 gallery:
   - url: /projects/marss2024Hackathon/
-    image_path: /assets/images/EvieGrad2.jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    image_path: /assets/images/MARSS2024-FingerProxy-Cropped.png
+    alt: "MARSS 2024 Project Cover Image"
+    title: "MARSS 2024 Project Cover Image"
   - url: /assets/images/EvieGrad.png
     image_path: /assets/images/EvieGrad.png
     alt: "placeholder image 2"
