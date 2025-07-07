@@ -34,16 +34,16 @@ The goal of DME is to introduce students who do not have a strong background in 
 We were tasked with building a remote-controlled robot to play soccer.
 
 {% capture fig_img %}
-![Foo]({{ '/assets/images/fpopDME_Project/ClutzTheRobotWithController.png' | relative_url }})
+![Foo]({{ '/assets/images/fpopDME_Project/ClutzTheRobotWithController.jpg' | relative_url }})
 {% endcapture %}
 
 <figure>
   {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
-  <figcaption>Clutz The Robot With Controller.</figcaption>
+  <figcaption>Clutz The Robot With Controller</figcaption>
 </figure>
 
 {% capture fig_img %}
-![Foo]({{ '/assets/images/fpopDME_Project/ClutzTheRobot.png' | relative_url }})
+![Foo]({{ '/assets/images/fpopDME_Project/ClutzTheRobot.jpg' | relative_url }})
 {% endcapture %}
 
 <figure>
