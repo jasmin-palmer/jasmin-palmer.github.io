@@ -1,6 +1,7 @@
 ---
 layout: single
-title: "MARSS 2024 Hacakthon"
+title: "MARSS 2024 Hacakthon
+permalink: /projectTest/
 author_profile: true
 excerpt: "These are my lovely projects!"
 header:
