@@ -17,7 +17,7 @@ J. E. Palmer, M. Sarac, A. A. Garza and A. M. Okamura, "Haptic Feedback Relocati
 
 My contributions to this work...
 
-See full paper here: https://ieeexplore.ieee.org/abstract/document/9981392
+<div markdown="0"><a href="https://ieeexplore.ieee.org/abstract/document/9981392" class="btn">See Full Paper Here!</a></div> 
 
 ## Skills
 Lorem ipsum dolor sit amet, test link adipiscing elit. **This is strong**. Nullam dignissim convallis est. Quisque aliquam.
