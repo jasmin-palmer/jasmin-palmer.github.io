@@ -1,7 +1,7 @@
 ---
 title: "In vivo demonstration of photoacoustic-guided liver surgery"
 header:
-  image: assets/images/EvieGrad2.jpg
+  overlay_color: "#8d64a3"
   caption: "Photo credit: ..."
 tags:
   - table of contents
