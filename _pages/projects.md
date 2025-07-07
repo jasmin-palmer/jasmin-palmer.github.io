@@ -18,7 +18,7 @@ tags:
   - Assistive Technology
   - Wearable Devices
 gallery:
-  - url: /_pages/projects/projectTest/
+  - url: /projects/projectTest/
     image_path: /assets/images/EvieGrad2.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
