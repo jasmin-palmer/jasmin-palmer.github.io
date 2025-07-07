@@ -83,62 +83,26 @@ gallery3:
     alt: "placeholder image 4"
 ---
 
+## Stanford Projects
+
 These are gallery tests for image wrapped in `<figure>` elements.
 
 To place a gallery add the necessary YAML Front Matter:
 
-```yaml
-gallery:
-  - url: /projects/marss2024Hackathon/
-    image_path: /assets/images/MARSS2024-FingerProxy-Cropped.png
-    alt: "MARSS 2024 Hackathon"
-    title: "Image 1 title caption"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
-    title: "Image 3 title caption"
-  - url: /assets/images/unsplash-gallery-image-4.jpg
-    image_path: /assets/images/unsplash-gallery-image-4-th.jpg
-    alt: "placeholder image 4"
-    title: "Image 4 title caption"
-```
-
 And then drop-in the gallery include --- gallery `caption` is optional.
-
-```liquid
-{% raw %}{% include gallery caption="This is a sample gallery with **Markdown support**." %}{% endraw %}
-```
 
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
 
 This is some text after the gallery just to make sure that everything aligns properly.
 
+## MIT Projects
+
 Here comes another gallery, this time set the `id` to match 2nd gallery hash in YAML Front Matter.
 
-```yaml
-gallery2:
-  - url: /assets/images/EvieGrad2.jpg
-    image_path: /assets/images/EvieGrad2.jpg
-    alt: "Black and grays with a hint of green"
-  - url: /assets/images/EvieGrad2.jpg
-    image_path: /assets/images/EvieGrad2.jpg
-    alt: "Made for open text placement"
-   - url: /assets/images/EvieGrad2.jpg
-    image_path: /assets/images/EvieGrad2.jpg
-    alt: "Fog in the trees"
-```
-
-And place it like so: 
-
-```liquid
-{% raw %}{% include gallery id="gallery2" caption="This is a second gallery example with images hosted externally." %}{% endraw %}
-```
 
 {% include gallery id="gallery2" caption="This is a second gallery example with images hosted externally." %}
+
+## Gallery 3
 
 And for giggles one more gallery just to make sure this works. To fill page content container add `class="full"`.
 
