@@ -49,7 +49,7 @@ gallery2:
     alt: "2.THU Undergrad Thesis"
     title: "2.THU Undergrad Thesis"
   - url: /projects/278Project/
-    image_path: /assets/278_Project/278_GalleryIcon.png
+    image_path: /assets/images/278_Project/278_GalleryIcon.png
     alt: "2.78 Assistive Technology Class Final Project"
     title: "2.78 Assistive Technology Class Final Project"
   - url: /projects/2678Project/
