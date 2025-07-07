@@ -22,9 +22,13 @@ intro:
   - excerpt: "MARSS 2024 Hacakthon"
 ---
 
-## About
+## About the Final Project
 
 Mechatronics class part 2 final project.
+
+For our final report, we made a website!
+
+<div markdown="0"><a href="https://mylifeasaduronrobot.weebly.com/" class="btn">MINI-PLANTING WITH THE MARTIAN!</a></div> 
 
 ## Skills
 

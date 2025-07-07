@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "ME218A Class Final Project"
-permalink: /projects/me218AProject/
+title: "MIT FPOP Project - Discovering Mechanical Engineering"
+permalink: /projects/fpopDMEProject/
 author_profile: true
 header:
   overlay_color: "#8d64a3"
@@ -10,6 +10,7 @@ categories:
 tags:
   - CAD
   - Solidworks
+  - Robotics
 toc: true
 toc_sticky: true
 toc_label: "Table of Contents"
@@ -19,20 +20,18 @@ comments: false
 share: false
 related: true
 intro: 
-  - excerpt: "MARSS 2024 Hacakthon"
+  - excerpt: "IT FPOP Project - Discovering Mechanical Engineering"
 ---
 
-## About the Final Project
+## About
 
-Mechatronics class part 1 final project.
+MIT FPOP Project - Discovering Mechanical Engineering
 
-For our final report, we made a website!
-
-<div markdown="0"><a href="https://miniplanting.weebly.com/" class="btn">MINI-PLANTING WITH THE MARTIAN!</a></div> 
+Robots and Soccers!
 
 ## Skills
 
-Computer-Aided Design (Solidworks), C, Arduino, 3D Printing, Haptic Modeling and Rendering
+Computer-Aided Design (Solidworks), 3D Printing, Arduino, C++
 
 {% capture fig_img %}
 ![Foo]({{ '/assets/images/MARSS2024-FingerProxy-Cropped.png' | relative_url }})

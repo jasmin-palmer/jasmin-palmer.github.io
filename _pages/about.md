@@ -4,7 +4,7 @@ title: "About Me"
 permalink: /about/
 author_profile: true
 header:
-  overlay_image: /assets/images/splash-image.jpg
+  overlay_image: /assets/images/splash-image.png
   caption: "J. E. Palmer, et al., 2024"
   overlay_filter: 0.3
 intro: 

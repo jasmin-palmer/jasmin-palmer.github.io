@@ -1,13 +1,14 @@
 ---
 layout: single
-title: "ME218A Class Final Project"
-permalink: /projects/me218AProject/
+title: "2.78 Principles and Practices of Assistive Technology Project"
+permalink: /projects/278Project/
 author_profile: true
 header:
   overlay_color: "#8d64a3"
 categories:
   - Projects
 tags:
+  - Assistive Technology
   - CAD
   - Solidworks
 toc: true
@@ -19,20 +20,16 @@ comments: false
 share: false
 related: true
 intro: 
-  - excerpt: "MARSS 2024 Hacakthon"
+  - excerpt: "Principles and Practices of Assistive Technology"
 ---
 
-## About the Final Project
+## About
 
-Mechatronics class part 1 final project.
-
-For our final report, we made a website!
-
-<div markdown="0"><a href="https://miniplanting.weebly.com/" class="btn">MINI-PLANTING WITH THE MARTIAN!</a></div> 
+Principles and Practice of Assistive Technology.
 
 ## Skills
 
-Computer-Aided Design (Solidworks), C, Arduino, 3D Printing, Haptic Modeling and Rendering
+Computer-Aided Design (Solidworks), 3D Printing
 
 {% capture fig_img %}
 ![Foo]({{ '/assets/images/MARSS2024-FingerProxy-Cropped.png' | relative_url }})
