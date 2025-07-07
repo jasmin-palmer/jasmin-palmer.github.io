@@ -3,17 +3,22 @@ layout: single
 title: "Projects"
 permalink: /projects/
 author_profile: true
-excerpt: "These are my lovely projects"
+excerpt: "These are my lovely projects!"
 header:
   overlay_color: "#8d64a3"
 categories:
   - Projects
 tags:
-  - gallery
-  - Post Formats
-  - tiled
+  - Robotics
+  - Haptics
+  - Virtual Reality
+  - Mixed Reality
+  - Augmented Reality
+  - Medical Simulations
+  - Assistive Technology
+  - Wearable Devices
 gallery:
-  - url: /assets/images/EvieGrad2.jpg
+  - url: /pages/projects/projectTest.md
     image_path: /assets/images/EvieGrad2.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
@@ -77,14 +82,6 @@ gallery3:
   - image_path: /assets/images/EvieGrad.png
     alt: "placeholder image 4"
 ---
-
-These are gallery tests for image wrapped in `<figure>` elements.
-
-And then drop-in the gallery include --- gallery `caption` is optional.
-
-```liquid
-{% raw %}{% include gallery caption="This is a sample gallery with **Markdown support**." %}{% endraw %}
-```
 
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
 
