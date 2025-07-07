@@ -1,5 +1,5 @@
 ---
-title: "Stanford Research"
+title: "SUBMITTED -- Fourigami: A 4-Degree-of-Freedom, Force-Controlled, Origami, Finger Pad Haptic Device"
 header:
   image: assets/images/EvieGrad.jpg
   caption: "Photo credit: ..."
