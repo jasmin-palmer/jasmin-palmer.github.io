@@ -30,7 +30,8 @@ gallery:
     image_path: /assets/images/EE267_Project/EE267_GalleryIcon.png
     alt: "EE267 Final Project"
     title: "EE267 Final Project"
-  - url: /projects/rad206ProjecRAD206_Project/RAD206_GalleryIcon.png
+  - url:  /projects/rad206Project/
+    image_path: /assets/images/RAD206_Project/RAD206_GalleryIcon.png
     alt: "RAD206 Final Project"
     title: "RAD206 Final Project"
   - url: /projects/me218BProject/
