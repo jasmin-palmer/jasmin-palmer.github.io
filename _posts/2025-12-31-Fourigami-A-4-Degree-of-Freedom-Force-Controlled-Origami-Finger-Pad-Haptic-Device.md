@@ -1,8 +1,7 @@
 ---
 title: "SUBMITTED -- Fourigami: A 4-Degree-of-Freedom, Force-Controlled, Origami, Finger Pad Haptic Device"
 header:
-    overlay_color: "#8d64a3"
-  caption: "Photo credit: ..."
+  overlay_color: "#8d64a3"
 tags:
   - Submitted Research Papers
 toc: true
@@ -10,17 +9,6 @@ toc_sticky: true
 toc_label: "Table of Contents"
 toc_icon: "heart"
 ---
-
-Enable table of contents on post or page by adding `toc: true` to its YAML Front Matter. The title and icon can also be changed with:
-
-```yaml
----
-toc: true
-toc_sticky: true
-toc_label: "Table of Contents"
-toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
----
-```
 
 ## Contributions
 

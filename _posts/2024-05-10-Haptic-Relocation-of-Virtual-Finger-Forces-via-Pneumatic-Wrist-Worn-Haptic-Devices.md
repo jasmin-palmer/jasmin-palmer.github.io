@@ -1,10 +1,10 @@
 ---
 title: "Haptic Relocation of Virtual Finger Forces via Pneumatic Wrist-Worn Haptic Devices"
 header:
-    overlay_color: "#8d64a3"
-  caption: "Photo credit: ..."
+  overlay_color: "#8d64a3"
 tags:
   - Published Research Papers
+  - Stanford
 toc: true
 toc_sticky: true
 toc_label: "Table of Contents"
@@ -12,15 +12,6 @@ toc_icon: "heart"
 ---
 
 J. E. Palmer, B. B. Vuong, Z. Zhakypov, Y. Qin, L. Tilton and A. M. Okamura, "Haptic Relocation of Virtual Finger Forces via Pneumatic Wrist-Worn Haptic Devices," 2024 IEEE Haptics Symposium (HAPTICS), Long Beach, CA, USA, 2024, pp. 315-320, doi: 10.1109/HAPTICS59260.2024.10520855.
-
-```yaml
----
-toc: true
-toc_sticky: true
-toc_label: "Table of Contents"
-toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
----
-```
 
 ## Contributions
 
@@ -32,7 +23,7 @@ See full paper here: https://ieeexplore.ieee.org/abstract/document/10520855
 
 Lorem ipsum dolor sit amet, test link adipiscing elit. **This is strong**. Nullam dignissim convallis est. Quisque aliquam.
 
-![Smithsonian Image]({{ site.url }}{{ site.baseurl }}/assets/images/3953273590_704e3899d5_m.jpg)
+![Smithsonian Image]({{ site.url }}{{ site.baseurl }}/assets/images/EvieGrad.png)
 {: .image-right}
 
 *This is emphasized*. Donec faucibus. Nunc iaculis suscipit dui. 53 = 125. Water is H2O. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. The New York Times (That’s a citation). Underline.Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.

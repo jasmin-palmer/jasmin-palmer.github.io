@@ -2,25 +2,16 @@
 title: "In vivo photoacoustic imaging of major blood vessels in the pancreas and liver during surgery"
 header:
   overlay_color: "#8d64a3"
-  caption: "Photo credit: ..."
 tags:
   - Published Research Papers
+  - Johns Hopkins University
 toc: true
 toc_sticky: true
 toc_label: "Table of Contents"
 toc_icon: "heart"
 ---
 
-Enable table of contents on post or page by adding `toc: true` to its YAML Front Matter. The title and icon can also be changed with:
-
-```yaml
----
-toc: true
-toc_sticky: true
-toc_label: "Table of Contents"
-toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
----
-```
+Kempski, K.M., Wiacek, A., Graham, M., González, E., Goodson, B., Allman, D., Palmer, J.E., Hou, H., Beck, S., He, J. and Bell, M.A.L. , “In vivo photoacoustic imaging of major blood vessels in the pancreas and liver during surgery,” Journal of Biomedical Optics 24(12):121905, 2019. 
 
 ## Contributions
 

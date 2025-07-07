@@ -2,25 +2,16 @@
 title: "In vivo demonstration of photoacoustic-guided liver surgery"
 header:
   overlay_color: "#8d64a3"
-  caption: "Photo credit: ..."
 tags:
   - Published Research Papers
+  - Johns Hopkins University
 toc: true
 toc_sticky: true
 toc_label: "Table of Contents"
 toc_icon: "heart"
 ---
 
-Enable table of contents on post or page by adding `toc: true` to its YAML Front Matter. The title and icon can also be changed with:
-
-```yaml
----
-toc: true
-toc_sticky: true
-toc_label: "Table of Content"
-toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
----
-```
+Kempski, K.M., Wiacek, A., Palmer, J., Graham, M., González, E., Goodson, B., Allman, D., Hou, H., Beck, S., He, J. and Bell, M.A.L., “In vivo demonstration of photoacoustic-guided liver surgery”, Proc. SPIE, Photons Plus Ultrasound: Imaging and Sensing, 10878:108782T, 2019.
 
 ## Contributions
 
