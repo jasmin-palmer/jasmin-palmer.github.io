@@ -1,12 +1,12 @@
 ---
 title: "In vivo photoacoustic imaging of major blood vessels in the pancreas and liver during surgery"
 header:
-  image: assets/images/EvieGrad2.jpg
+  overlay_color: "#8d64a3"
   caption: "Photo credit: ..."
 tags:
   - table of contents
 toc: true
-toc_label: "Unique Title"
+toc_label: "Table of Contents"
 toc_icon: "heart"
 ---
 
@@ -15,7 +15,7 @@ Enable table of contents on post or page by adding `toc: true` to its YAML Front
 ```yaml
 ---
 toc: true
-toc_label: "Unique Title"
+toc_label: "Table of Contents"
 toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
 ---
 ```

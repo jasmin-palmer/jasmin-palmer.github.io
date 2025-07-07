@@ -1,12 +1,12 @@
 ---
 title: "Haptic Feedback Relocation from the Fingertips to the Wrist for Two-Finger Manipulation in Virtual Reality"
 header:
-  image: assets/images/EvieGrad.jpg
+  overlay_color: "#8d64a3"
   caption: "Photo credit: ..."
 tags:
   - table of contents
 toc: true
-toc_label: "Unique Title"
+toc_label: "Table of Contents"
 toc_icon: "heart"
 ---
 
@@ -15,7 +15,7 @@ Enable table of contents on post or page by adding `toc: true` to its YAML Front
 ```yaml
 ---
 toc: true
-toc_label: "Unique Title"
+toc_label: "Table of Contents"
 toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
 ---
 ```
