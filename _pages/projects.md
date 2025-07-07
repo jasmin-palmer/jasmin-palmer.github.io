@@ -21,7 +21,7 @@ tags:
   - Medical Simulations
   - Assistive Technology
   - Wearable Devices
-gallery:
+gallery1:
   - url: /projects/marss2024Hackathon/
     image_path: /assets/images/MARSS2024_Project/MARSS2024_GalleryIcon.png
     alt: "MARSS 2024 Hackathon Project"
@@ -84,7 +84,7 @@ gallery3:
 
 From 2019-2025
 
-{% include gallery class="full" caption="This is a gallery with **Markdown support**." type="center" %}
+{% include gallery id="gallery1" caption="This is a gallery with **Markdown support**." type="center" %}
 
 This is some text after the gallery just to make sure that everything aligns properly.
 
@@ -92,7 +92,7 @@ This is some text after the gallery just to make sure that everything aligns pro
 
 From 2015-2019
 
-{% include gallery id="gallery2" class="full" caption="This is a second gallery example with images hosted externally." type="center" %}
+{% include gallery id="gallery2" caption="This is a second gallery example with images hosted externally." type="center" %}
 
 <!--
 ## Gallery 3
