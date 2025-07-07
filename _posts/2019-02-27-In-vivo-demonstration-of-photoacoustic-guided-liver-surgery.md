@@ -17,11 +17,14 @@ Kempski, K.M., Wiacek, A., Palmer, J., Graham, M., González, E., Goodson, B., A
 
 My contributions to this work...
 
-See full paper here: https://doi.org/10.1117/12.2510500
+<div markdown="0"><a href="https://doi.org/10.1117/12.2510500" class="btn">See Full Paper Here!</a></div> 
+
 
 ## Skills
 
 Lorem ipsum dolor sit amet, test link adipiscing elit. **This is strong**. Nullam dignissim convallis est. Quisque aliquam.
+
+## Leadership Alliance
 
 ![Smithsonian Image]({{ site.url }}{{ site.baseurl }}/assets/images/EvieGrad2.jpg)
 {: .image-right}

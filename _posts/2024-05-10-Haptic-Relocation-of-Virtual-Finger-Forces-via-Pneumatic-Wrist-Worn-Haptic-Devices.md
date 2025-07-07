@@ -17,7 +17,7 @@ J. E. Palmer, B. B. Vuong, Z. Zhakypov, Y. Qin, L. Tilton and A. M. Okamura, "Ha
 
 My contributions to this work...
 
-See full paper here: https://ieeexplore.ieee.org/abstract/document/10520855
+<div markdown="0"><a href="https://ieeexplore.ieee.org/abstract/document/10520855" class="btn">See Full Paper Here!</a></div> 
 
 ## Skills
 

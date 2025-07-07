@@ -17,12 +17,14 @@ Kempski, K.M., Wiacek, A., Graham, M., González, E., Goodson, B., Allman, D., P
 
 My contributions to this work...
 
-See full paper here: https://doi.org/10.1117/1.JBO.24.12.121905
+<div markdown="0"><a href="https://doi.org/10.1117/1.JBO.24.12.121905" class="btn">See Full Paper Here!</a></div> 
 
 ## Skills
 Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
 
 Lorem ipsum dolor sit amet, test link adipiscing elit. **This is strong**. Nullam dignissim convallis est. Quisque aliquam.
+
+## Leadership Alliance
 
 ![Smithsonian Image]({{ site.url }}{{ site.baseurl }}/assets/images/EvieGrad2.jpg)
 {: .image-right}
