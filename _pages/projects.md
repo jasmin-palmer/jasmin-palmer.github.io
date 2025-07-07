@@ -18,7 +18,7 @@ tags:
   - Assistive Technology
   - Wearable Devices
 gallery:
-  - url: /projects/projectTest/
+  - url: /projects/marss2024Hackathon/
     image_path: /assets/images/EvieGrad2.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
