@@ -37,5 +37,5 @@ Unity, C#, Arduino, 3D Printing
 
 <figure>
   {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
-  <figcaption>Screenshot of AR Porcine Anatomy in Unity Scene.</figcaption>
+  <figcaption>Screenshot of Virtual Porcine Anatomy in Unity Scene.</figcaption>
 </figure>
