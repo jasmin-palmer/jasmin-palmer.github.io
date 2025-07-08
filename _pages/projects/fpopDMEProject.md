@@ -20,7 +20,7 @@ comments: false
 share: false
 related: true
 intro: 
-  - excerpt: "IT FPOP Project - Discovering Mechanical Engineering"
+  - excerpt: "MIT FPOP Project - Discovering Mechanical Engineering"
 ---
 
 ## About
@@ -31,7 +31,7 @@ I attended the Discover Mechanical Engineering (DME) FPOP (my first choice as an
 
 The goal of DME is to introduce students who do not have a strong background in engineering to the basics of design and manufacturing, which is accomplished in the *best* way possible by building competitive robots. 
 
-We were tasked with building a remote-controlled robot to play soccer.
+We were tasked with building a remote-controlled robot to play soccer. This is Clutz, my soccer-playing bot. He has rear-wheel drivetrain and two spring-loaded flippers to kick the soccer ball. The wheels and flippers are controlled via remote control provided by DME staff.
 
 {% capture fig_img %}
 ![Foo]({{ '/assets/images/fpopDME_Project/ClutzTheRobotWithController.jpg' | relative_url }})
@@ -53,4 +53,4 @@ We were tasked with building a remote-controlled robot to play soccer.
 
 ## Skills
 
-Computer-Aided Design (Solidworks), 3D Printing, Arduino, C++
+Sheet Metal Bending, Hand Tools
