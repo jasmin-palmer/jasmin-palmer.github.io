@@ -40,12 +40,12 @@ The robot must be desinged in a way so that it can complte three tasks:
 
 ## My Contributions
 
-I was responsible for the design and maufacture of the 1-DoF, servo-controlled haptic device. It is the same device used in <a href="https://ieeexplore.ieee.org/document/9981392"><"Palmer, et al., 2022"></a>. 
+I was responsible for the design and maufacture of the 1-DoF, servo-controlled haptic device. It is the same device used in <href="https://ieeexplore.ieee.org/document/9981392"><"Palmer, et al., 2022">>. 
 
 I also developed the haptic rendering algorithm for this XR simulation as well as programmed the serial communication between virtual environment and haptic device.
 
 <figure class="half">
-    <a <img src="/assets/images/MARSS2024_News/MARSS_Certificate.jpg"></a>
+    <img src="/assets/images/MARSS2024_News/MARSS_Certificate.jpg">
     <figcaption>Certificate</figcaption>
 </figure>
 

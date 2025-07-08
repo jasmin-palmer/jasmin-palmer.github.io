@@ -41,6 +41,21 @@ gallery1:
     image_path: /assets/images/MARSS2024_News/20240907_162543.jpg
     alt: "MARSS 2024 Hackathon"
     title: "MARSS 2024 Hackathon"
+        
+  - url: /news/hapticsSymposium2024/
+    image_path: /assets/images/HapticsSymposium2024_News/20240907_162543.jpg
+    alt: "Haptics Symposium 2024"
+    title: "Haptics Symposium 2024"
+    
+  - url: /news/icra2024/
+    image_path: /assets/images/ICRA2024_News/20240907_162543.jpg
+    alt: "ICRA 2024"
+    title: "ICRA 2024"
+    
+  - url: /news/iros2022/
+    image_path: /assets/images/IROS2022_News/IROS2022_Presentation.jpg
+    alt: "IROS 2022"
+    title: "IROS 2022"
   
 gallery2:
   - url: /projects/2THUProject/

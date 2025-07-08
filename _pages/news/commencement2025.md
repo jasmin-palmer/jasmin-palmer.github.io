@@ -19,28 +19,23 @@ share: false
 related: true
 ---
 
-## Course Description (Excerpt)
+## PhinisheD!
 
-Cross-disciplinary studies in robot mechanics and intelligence. Emphasizes physical understanding of robot kinematics and dynamics, differential motion and energy method, design and control of robotic arms and mobile robots, and actuators, drives, and transmission. Second half of course focuses on algorithmic thinking and computation, computer vision and perception, planning and control for manipulation, localization and navigation, machine learning for robotics, and human-robot systems. Weekly laboratories include brushless DC motor control, design and fabrication of robotic arms and vehicles, robot vision and navigation, and programming and system integration using Robot Operating System (ROS). Group term project builds intelligent robots for specific applications of interest. 
+🎓 I'm PhDone! PhinisheD! 🎓 Whichever you prefer. 😁 
 
-## About the Project
+On Sunday, I graduated from Stanford University with a PhD in Mechanical Engineering! 🤖
 
-Our group was asked to develop an assistive robot that can work side by side with a patient for daily chores.
+I’m deeply grateful to my advisor, Allison Okamura, and to the mentors who have guided and supported me along the way, Monroe Kennedy III, Karl Reid, and so many others that listing them all would make this post longer than my dissertation 🫣.
 
-The scenario presented to us was:
+To my family, Paulette Palmer and Michael Palmer, and the village that raised me from coast to coast: thank you. And to the friends who kept me grounded throughout this journey, I couldn’t have done this without you.
 
-* A hemiplegic patient is unable to move one arm
-* The patient needs assistance in dressing and bed-making
+As PhD students, we navigated a lot of challenges: COVID closures, late nights, missed holidays with family, cancelled or reduced funding, devaluing of our work, just to name a few. 
 
-The robot must be desinged in a way so that it can complte three tasks:
-
-1. A robot arm assists the patient in pulling a drawer together with him/her, so the patient can take a garment out of the drawer
-2. The robot arm also assists the patient in donning a garment
-3. A mobile robot fetches a blanket and covers a bed with the blanket together with the patient
+I’m proud to be one of the 1010 PhD graduates in Stanford’s largest-ever doctoral class.
 
 ## My Contributions
 
-I was responsible for the design and maufacture of the 1-DoF, servo-controlled gripper end effector for the robot arm. 
+I'm a doctor!!!! 
 
 {% capture fig_img %}
 ![Foo]({{ '/assets/images/212_Project/Gripper_Assembly_with_Motor.jpg' | relative_url }})
