@@ -22,26 +22,25 @@ tags:
   - Assistive Technology
   - Wearable Devices
 gallery1:
-  - url:  /news/commencement2025/
+  - url: /news/commencement2025/
     image_path: /assets/images/Commencement_2025/50408248_85201_0015_Medium.jpg
     alt: "Commencement 2025"
     title: "Commencement 2025!"
-  - url: /projects/ee267Project/
-    image_path: /assets/images/EE267_Project/EE267_GalleryIcon.png
-    alt: "EE267 Final Project"
-    title: "EE267 Final Project"
-  - url:  /projects/rad206Project/
-    image_path: /assets/images/RAD206_Project/RAD206_GalleryIcon.png
-    alt: "RAD206 Final Project"
-    title: "RAD206 Final Project"
-  - url: /projects/me218BProject/
-    image_path: /assets/images/ME218B_Project/ME218B_GalleryIcon.png
-    alt: "ME218B Class Final Project"
-    title: "ME218B Class Final Project"
-  - url: /projects/me218AProject/
-    image_path: /assets/images/ME218A_Project/ME218A_GalleryIcon.png
-    alt: "ME218A Class Final Project"
-    title: "ME218A Class Final Project"
+
+  - url: /news/phdDefense/
+    image_path: /assets/images/PhD_Defense/IMG_20250429_200808-cropped.jpg
+    alt: "PhD Defense"
+    title: "PhD Defense"
+
+  - url: /news/communityImpactAward2025/
+    image_path: /assets/images/Community_Impact_Award/20250521_180010.jpg
+    alt: "Community Impact Award 2025"
+    title: "Community Impact Award 2025"
+
+  - url: /news/marss2024Hackathon/
+    image_path: /assets/images/MARSS2024_News/20240907_162543.jpg
+    alt: "MARSS 2024 Hackathon"
+    title: "MARSS 2024 Hackathon"
   
 gallery2:
   - url: /projects/2THUProject/
