@@ -23,13 +23,15 @@ intro:
   - excerpt: "Electronics for Mechanical Systems"
 ---
 
-## About
+## Course Description (Excerpt)
+
+Practical introduction to the fundamentals of electronics in the context of electro-mechanical systems, with emphasis on experimentation and project work in basic electronics. Laboratory exercises include the design and construction of simple electronic devices, such as power supplies, amplifiers, op-amp circuits, switched mode dc-dc converters, and dc motor drivers. Surveys embedded microcontrollers as system elements. Laboratory sessions stress the understanding of electronic circuits at the component level, but also point out the modern approach of system integration using commercial modules and specialized integrated circuits. 
+
+## About the Project
 
 Principles and Practice of Assistive Technology.
 
-## Skills
-
-Computer-Aided Design (Solidworks), 3D Printing, Arduino, C++
+## My Contributions
 
 {% capture fig_img %}
 ![Foo]({{ '/assets/images/MARSS2024-FingerProxy-Cropped.png' | relative_url }})
@@ -39,3 +41,7 @@ Computer-Aided Design (Solidworks), 3D Printing, Arduino, C++
   {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
   <figcaption>Screenshot of Virtual Porcine Anatomy in Unity Scene.</figcaption>
 </figure>
+
+## Skills
+
+Computer-Aided Design (Solidworks), 3D Printing, Arduino, C++

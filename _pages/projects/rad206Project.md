@@ -23,7 +23,7 @@ intro:
   - excerpt: "MARSS 2024 Hacakthon"
 ---
 
-## About
+## About the Project
 
 Medical Mixed Reality simulation with haptic augmentations for lumbar puncture procedures.
 

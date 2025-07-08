@@ -27,7 +27,7 @@ intro:
 
 Integration of design, engineering, and management disciplines and practices for analysis and design of manufacturing enterprises. Emphasis is on the physics and stochastic nature of manufacturing processes and systems, and their effects on quality, rate, cost, and flexibility. Topics include process physics and control, design for manufacturing, and manufacturing systems. Group project requires design and fabrication of parts using mass-production and assembly methods to produce a product in quantity.
 
-## About
+## About the Project
 
 2.008 Design and Manufacturing II is a part of MIT's core undergraduate coursework for Mechanical Engineering (Course 2). The goals of the course are to teach students to apply the design thinking and engineering skills learned in previous semesters to practical manufacturing techniques. This course focuses on teaching the realitites of mass-prodcution of a design.
 
@@ -69,7 +69,7 @@ My main contributions to this project were:
 </figure>
 
 {% capture fig_img %}
-![Foo]({{ '/assets/images/2008_Project/PerformanceYoYo.jpg' | relative_url }})
+![Foo]({{ '/assets/images/2008_Project/Performance_Yoyo.jpg' | relative_url }})
 {% endcapture %}
 
 <figure>

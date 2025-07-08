@@ -29,7 +29,7 @@ Develops students' competence and self-confidence as design engineers. Emphasis 
 
 Class Website: https://sites.mit.edu/me-2007/
 
-## About
+## About the Project
 
 2.007 Design and Manufacturing I is a part of MIT's core undergraduate coursework for Mechanical Engineering (Course 2). The goals of the course are to teach students to apply the engineering skills learned in previous semesters to design thinking. The course also emphasizes the importance of maintaining a proper engineering notebook, properly documenting your design process, and justfying your design choices with engineering principles (and staying under budget).
 

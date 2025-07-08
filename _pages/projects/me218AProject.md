@@ -30,9 +30,7 @@ For our final report, we made a website!
 
 <div markdown="0"><a href="https://miniplanting.weebly.com/" class="btn">MINI-PLANTING WITH THE MARTIAN!</a></div> 
 
-## Skills
-
-Computer-Aided Design (Solidworks), C, Arduino, 3D Printing, Haptic Modeling and Rendering
+## My Contributions
 
 {% capture fig_img %}
 ![Foo]({{ '/assets/images/MARSS2024-FingerProxy-Cropped.png' | relative_url }})
@@ -42,3 +40,7 @@ Computer-Aided Design (Solidworks), C, Arduino, 3D Printing, Haptic Modeling and
   {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
   <figcaption>Screenshot of Virtual Porcine Anatomy in Unity Scene.</figcaption>
 </figure>
+
+## Skills
+
+Computer-Aided Design (Solidworks), C, Arduino, 3D Printing, Haptic Modeling and Rendering

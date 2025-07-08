@@ -23,13 +23,11 @@ intro:
   - excerpt: "EE 267 Class Final Project"
 ---
 
-## About
+## About the Project
 
 Unity mini-game!
 
-## Skills
-
-Unity, C#, Arduino, 3D Printing, Haptic Modeling and Rendering
+## My Contributions
 
 {% capture fig_img %}
 ![Foo]({{ '/assets/images/MARSS2024-FingerProxy-Cropped.png' | relative_url }})
@@ -39,3 +37,7 @@ Unity, C#, Arduino, 3D Printing, Haptic Modeling and Rendering
   {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
   <figcaption>Screenshot of Virtual Porcine Anatomy in Unity Scene.</figcaption>
 </figure>
+
+## Skills
+
+Unity, C#, Arduino, 3D Printing, Haptic Modeling and Rendering

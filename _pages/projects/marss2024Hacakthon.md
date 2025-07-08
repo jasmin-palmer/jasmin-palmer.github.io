@@ -23,13 +23,11 @@ intro:
   - excerpt: "MARSS 2024 Hacakthon"
 ---
 
-## About
+## About the Project
 
 Medical Mixed Reality simulation with haptic and auditory augmentations for laproscopic procedures.
 
-## Skills
-
-Unity, C#, Arduino, 3D Printing
+## My Contributions
 
 {% capture fig_img %}
 ![Foo]({{ '/assets/images/MARSS2024-FingerProxy-Cropped.png' | relative_url }})
@@ -39,3 +37,7 @@ Unity, C#, Arduino, 3D Printing
   {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
   <figcaption>Screenshot of Virtual Porcine Anatomy in Unity Scene.</figcaption>
 </figure>
+
+## Skills
+
+Unity, C#, Arduino, 3D Printing
