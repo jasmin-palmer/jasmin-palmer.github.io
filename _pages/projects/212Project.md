@@ -47,7 +47,7 @@ The robot must be desinged in a way so that it can complte three tasks:
 I was responsible for the design and maufacture of the 1-DoF, servo-controlled gripper end effector for the robot arm. 
 
 {% capture fig_img %}
-![Foo]({{ '/assets/images/212_Project/Gripper_Assembly_with_Motor.png' | relative_url }})
+![Foo]({{ '/assets/images/212_Project/Gripper_Assembly_with_Motor.jpg' | relative_url }})
 {% endcapture %}
 
 <figure>
