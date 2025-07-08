@@ -1,49 +1,105 @@
 ---
+layout: single
 title: "News"
-layout: splash
 permalink: /news/
+author_profile: true
+excerpt: "My updates and achievements from my first year at MIT until my last year at Stanford!"
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /assets/images/splash-image.jpg
-  actions:
-    - label: "Check out my ORCiD"
-      url: "https://orcid.org/0009-0004-5337-8143"
-  caption: "J. E. Palmer, et al., 2024"
-excerpt: "This is Jasmin's Research Page!"
-intro: 
-  - excerpt: "This is my research. It's revolutionary!"
-feature_row:
-  - image_path: /assets/images/EvieGrad2.jpg
-    image_caption: "Image courtesy of Dr. Evie"
-    alt: "placeholder image 2"
-    title: "Stanford Reserach"
-    excerpt: 'My PhD work at Stanford University. '
-    url: "/research_Stanford/"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-feature_row2:
+  overlay_color: "#8d64a3"
+categories:
+  - Projects
+toc: true
+toc_sticky: true
+toc_label: "Table of Contents"
+toc_icon: "cog"
+tags:
+  - Robotics
+  - Haptics
+  - Virtual Reality
+  - Mixed Reality
+  - Augmented Reality
+  - Medical Simulations
+  - Assistive Technology
+  - Wearable Devices
+gallery1:
+  - url:  /news/commencement2025/
+    image_path: /assets/images/Commencement_2025/50408248_85201_0015_Medium.jpg
+    alt: "Commencement 2025"
+    title: "Commencement 2025!"
+  - url: /projects/ee267Project/
+    image_path: /assets/images/EE267_Project/EE267_GalleryIcon.png
+    alt: "EE267 Final Project"
+    title: "EE267 Final Project"
+  - url:  /projects/rad206Project/
+    image_path: /assets/images/RAD206_Project/RAD206_GalleryIcon.png
+    alt: "RAD206 Final Project"
+    title: "RAD206 Final Project"
+  - url: /projects/me218BProject/
+    image_path: /assets/images/ME218B_Project/ME218B_GalleryIcon.png
+    alt: "ME218B Class Final Project"
+    title: "ME218B Class Final Project"
+  - url: /projects/me218AProject/
+    image_path: /assets/images/ME218A_Project/ME218A_GalleryIcon.png
+    alt: "ME218A Class Final Project"
+    title: "ME218A Class Final Project"
+  
+gallery2:
+  - url: /projects/2THUProject/
+    image_path: /assets/images/2THU_Project/2THU_GalleryIcon.png
+    alt: "2.THU Undergrad Thesis"
+    title: "2.THU Undergrad Thesis"
+  - url: /projects/278Project/
+    image_path: /assets/images/278_Project/278_GalleryIcon.png
+    alt: "2.78 Assistive Technology Class Final Project"
+    title: "2.78 Assistive Technology Class Final Project"
+  - url: /projects/2678Project/
+    image_path: /assets/images/2678_Project/2678_GalleryIcon.png
+    alt: "2.678 Electronics for Mechanical System Final Project"
+    title: "2.678 Electronics for Mechanical Systems Final Project"
+  - url: /projects/2008Project/
+    image_path: /assets/images/2008_Project/2008_GalleryIcon.png
+    alt: "2.008 Design and Manufacturing II Final Project"
+    title: "2.008 Design and Manufacturing II Final Project"
+  - url: /projects/212Project/
+    image_path: /assets/images/212_Project/212_GalleryIcon.png
+    alt: "2.12 Introduction to Robotics Final Project"
+    title: "2.12 Introduction to Robotics Final Project"
+  - url: /projects/2007Project/
+    image_path: /assets/images/2007_Project/2007_GalleryIcon.png
+    alt: "2.007 Design and Manufacturing I Final Project"
+    title: "2.007 Design and Manufacturing I Final Project"
+  - url: /projects/fpopDMEProject/
+    image_path: /assets/images/fpopDME_Project/fpopDME_GalleryIcon.png
+    alt: "MIT FPOP Project - Discovering Mechanical Engineering"
+    title: "MIT FPOP Project - Discovering Mechanical Engineering"
+
+gallery3:
+  - image_path: /assets/images/EvieGrad.png
+    alt: "placeholder image 1"
   - image_path: /assets/images/EvieGrad.png
     alt: "placeholder image 2"
-    title: "JHU Research"
-    excerpt: "My work at Johns Hopkins University"
-    url: "/research_JHU/"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-feature_row3:
-  - image_path: /assets/images/EvieGrad2.jpg
-    alt: "placeholder image 2"
-    title: "MIT UROP Research"
-    excerpt: "My UROP projects at MIT"
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
 ---
 
-{% include feature_row id="intro" type="center" %}
+## Stanford News
 
-{% include feature_row %}
+From 2019-2025
 
-{% include feature_row id="feature_row2" type="right" %}
+{% include gallery id="gallery1" class="full" caption="" type="center" %}
 
-{% include feature_row id="feature_row3" type="left" %}
+This is some text after the gallery just to make sure that everything aligns properly.
+
+## MIT News
+
+From 2015-2019
+
+{% include gallery id="gallery2" class="full" caption="" type="center" %}
+
+<!--
+## Gallery 3
+
+And for giggles one more gallery just to make sure this works. To fill page content container add `class="full"`.
+
+{% include gallery id="gallery3" class="full" caption="This is a third gallery example with two images and fills the entire content container." %}
+
+Gallery column layout can be overrided by setting a `layout`.
+-->
