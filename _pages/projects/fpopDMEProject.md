@@ -31,7 +31,7 @@ I attended the Discover Mechanical Engineering (DME) FPOP (my first choice as an
 
 The goal of DME is to introduce students who do not have a strong background in engineering to the basics of design and manufacturing, which is accomplished in the *best* way possible by building competitive robots. 
 
-We were tasked with building a remote-controlled robot to play soccer. This is Clutz, my soccer-playing bot. He has rear-wheel drivetrain and two spring-loaded flippers to kick the soccer ball. The wheels and flippers are controlled via remote control provided by DME staff.
+We were tasked with building a remote-controlled robot to play soccer. This is Clutz, my soccer-playing bot. He has rear-wheel drivetrain and two spring-loaded flippers to kick the soccer ball. The wheels and flippers are controlled via remote controlers provided by DME program staff.
 
 {% capture fig_img %}
 ![Foo]({{ '/assets/images/fpopDME_Project/ClutzTheRobotWithController.jpg' | relative_url }})
@@ -48,7 +48,7 @@ We were tasked with building a remote-controlled robot to play soccer. This is C
 
 <figure>
   {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
-  <figcaption>Clutz The Robot.</figcaption>
+  <figcaption>Clutz The Robot</figcaption>
 </figure>
 
 ## Skills
