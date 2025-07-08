@@ -31,10 +31,6 @@ Cross-disciplinary studies in robot mechanics and intelligence. Emphasizes physi
 
 Our group was asked to develop an assistive robot that can work side by side with a patient for daily chores.
 
-## My Contributions
-
-I was responsible for the design and maufacture of the 1-DoF, servo-controlled gripper end effector for the robot arm. 
-
 The scenario presented to us was:
 
 * A hemiplegic patient is unable to move one arm
@@ -46,8 +42,12 @@ The robot must be desinged in a way so that it can complte three tasks:
 2. The robot arm also assists the patient in donning a garment
 3. A mobile robot fetches a blanket and covers a bed with the blanket together with the patient
 
+## My Contributions
+
+I was responsible for the design and maufacture of the 1-DoF, servo-controlled gripper end effector for the robot arm. 
+
 {% capture fig_img %}
-![Foo]({{ '/assets/images/212_Project/Gripper Assembly with Motor.png' | relative_url }})
+![Foo]({{ '/assets/images/212_Project/Gripper_Assembly_with_Motor.png' | relative_url }})
 {% endcapture %}
 
 <figure>
@@ -58,8 +58,6 @@ The robot must be desinged in a way so that it can complte three tasks:
 
 {% capture fig_img %}
 ![Foo]({{ '/assets/images/212_Project/Gripper_Pose1.png' | relative_url }})
-{% endcapture %}
-{% capture fig_img %}
 ![Foo]({{ '/assets/images/212_Project/Gripper_Pose2.png' | relative_url }})
 {% endcapture %}
 
