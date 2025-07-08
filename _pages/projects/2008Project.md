@@ -23,24 +23,60 @@ intro:
   - excerpt: "Design and Manufacturing II"
 ---
 
+## Course Description (Excerpt)
+
+Integration of design, engineering, and management disciplines and practices for analysis and design of manufacturing enterprises. Emphasis is on the physics and stochastic nature of manufacturing processes and systems, and their effects on quality, rate, cost, and flexibility. Topics include process physics and control, design for manufacturing, and manufacturing systems. Group project requires design and fabrication of parts using mass-production and assembly methods to produce a product in quantity.
+
 ## About
 
-Design and Manufacturing II
+2.008 Design and Manufacturing II is a part of MIT's core undergraduate coursework for Mechanical Engineering (Course 2). The goals of the course are to teach students to apply the design thinking and engineering skills learned in previous semesters to practical manufacturing techniques. This course focuses on teachiong the realitites of mass-prodcution of a design.
 
+Students are required to complete a group project to design, manufacture, and assemble *50* yo-yos. We are also required to use a minimum of three manufacturing techniques to mass-produce the yo-yos. Two of the techniques must be 1) injection modling and 2) thermoforming. The thrird manufacturing technique is left to the discretion of each group depending on the aesthetic design chosen for the yo-yos.
+
+My group decided to design and manufacture two types of yo-yos 1) a "performance" yo-yo with uniform weight distrbution to allow for yo-yo tricks, and 2) an "aesthetic" yo-yo to fulfill the requirements to use multiple manufacturing techniques to mass-porduce the yo-yos.
+
+Our "aethetic" yo-yo was themed after the forest spirit from the acclaimed Japanese film *My Neighbor Totoro* directed by Hayao Miyazaki.
+
+More details of the design and manufactring process can be found at our group project website below:
 
 <div markdown="0"><a href="https://studioyoyo.wordpress.com/" class="btn">Lots of Yo-Yos!</a></div> 
 
+## My Contributions
 
+My main contributions to this project were: 
 
-## Skills
+  1) The design of the "Totoro-yo" injection molded components 
+  2) The design and manufacture of the corresponding "Totoro-yo" injection molds
+  3) The design and manufacture of the Leaf decoration (laser cut acrylic)
 
-Computer-Aided Design (Solidworks), 3D Printing, Arduino, C++
 
 {% capture fig_img %}
-![Foo]({{ '/assets/images/MARSS2024-FingerProxy-Cropped.png' | relative_url }})
+![Foo]({{ '/assets/images/2008_Project/TotoroYoYo.jpg' | relative_url }})
 {% endcapture %}
 
 <figure>
   {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
-  <figcaption>Screenshot of Virtual Porcine Anatomy in Unity Scene.</figcaption>
+  <figcaption>Image of the final "Totoro-yo".</figcaption>
 </figure>
+
+{% capture fig_img %}
+![Foo]({{ '/assets/images/2008_Project/TotoroYoYo_Exploded.jpg' | relative_url }})
+{% endcapture %}
+
+<figure>
+  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
+  <figcaption>Screenshot of the exploded view of the "Totoro-yo" CAD model.</figcaption>
+</figure>
+
+{% capture fig_img %}
+![Foo]({{ '/assets/images/2008_Project/PerformanceYoYo.jpg' | relative_url }})
+{% endcapture %}
+
+<figure>
+  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
+  <figcaption>Image of the final "Performance" yo-yo.</figcaption>
+</figure>
+
+## Skills
+
+Computer-Aided Design (Solidworks), Injection Molding, Laser Cutting, Thermoforming, Design for Manufacture, Design for Assembly, 3D Printing
