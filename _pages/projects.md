@@ -3,7 +3,7 @@ layout: single
 title: "Projects"
 permalink: /projects/
 author_profile: true
-excerpt: "These are my lovely projects!"
+excerpt: "My engineering portfolio from my first year at MIT until my last year at Stanford!"
 header:
   overlay_color: "#8d64a3"
 categories:
