@@ -56,6 +56,13 @@ I was responsible for the design and maufacture of the 1-DoF, servo-controlled g
 </figure>
 
 
+<figure class="half">
+    <a href="/assets/images/212_Project/Gripper_Pose1.jpg"><img src="/assets/images/image-filename-1.jpg"></a>
+    <a href="/assets/images/212_Project/Gripper_Pose2.jpg"><img src="/assets/images/image-filename-2.jpg"></a>
+    <figcaption>The gripper in open and closed position</figcaption>
+</figure>
+
+<!--
 {% capture fig_img %}
 ![Foo]({{ '/assets/images/212_Project/Gripper_Pose1.jpg' | relative_url }})
 ![Foo]({{ '/assets/images/212_Project/Gripper_Pose2.jpg' | relative_url }})
@@ -65,7 +72,7 @@ I was responsible for the design and maufacture of the 1-DoF, servo-controlled g
   {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
   <figcaption>The gripper</figcaption>
 </figure>
-
+-->
 
 {% capture fig_img %}
 ![Foo]({{ '/assets/images/212_Project/2.12_Selfie.png' | relative_url }})
