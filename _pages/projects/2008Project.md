@@ -29,13 +29,13 @@ Integration of design, engineering, and management disciplines and practices for
 
 ## About
 
-2.008 Design and Manufacturing II is a part of MIT's core undergraduate coursework for Mechanical Engineering (Course 2). The goals of the course are to teach students to apply the design thinking and engineering skills learned in previous semesters to practical manufacturing techniques. This course focuses on teachiong the realitites of mass-prodcution of a design.
+2.008 Design and Manufacturing II is a part of MIT's core undergraduate coursework for Mechanical Engineering (Course 2). The goals of the course are to teach students to apply the design thinking and engineering skills learned in previous semesters to practical manufacturing techniques. This course focuses on teaching the realitites of mass-prodcution of a design.
 
 Students are required to complete a group project to design, manufacture, and assemble *50* yo-yos. We are also required to use a minimum of three manufacturing techniques to mass-produce the yo-yos. Two of the techniques must be 1) injection modling and 2) thermoforming. The thrird manufacturing technique is left to the discretion of each group depending on the aesthetic design chosen for the yo-yos.
 
-My group decided to design and manufacture two types of yo-yos 1) a "performance" yo-yo with uniform weight distrbution to allow for yo-yo tricks, and 2) an "aesthetic" yo-yo to fulfill the requirements to use multiple manufacturing techniques to mass-porduce the yo-yos.
+My group decided to design and manufacture two types of yo-yos: 1) a "performance" yo-yo with uniform weight distrbution to allow for yo-yo tricks, and 2) an "aesthetic" yo-yo to fulfill the requirements to use multiple manufacturing techniques to mass-porduce the yo-yos.
 
-Our "aethetic" yo-yo was themed after the forest spirit from the acclaimed Japanese film *My Neighbor Totoro* directed by Hayao Miyazaki.
+Our "aethetic" yo-yo was themed after the eponymous forest spirit from the acclaimed Japanese film *My Neighbor Totoro* directed by Hayao Miyazaki.
 
 More details of the design and manufactring process can be found at our group project website below:
 
@@ -45,9 +45,9 @@ More details of the design and manufactring process can be found at our group pr
 
 My main contributions to this project were: 
 
-  1) The design of the "Totoro-yo" injection molded components 
-  2) The design and manufacture of the corresponding "Totoro-yo" injection molds
-  3) The design and manufacture of the Leaf decoration (laser cut acrylic)
+1. The design of the "Totoro-yo" injection molded components 
+2. The design and manufacture of the corresponding "Totoro-yo" injection molds
+3. The design and manufacture of the Leaf decoration (laser cut acrylic)
 
 
 {% capture fig_img %}
