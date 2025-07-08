@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "2.12 Introduction to Robotics Final Project"
+title: "2.12 Introduction to Robotics Term Project"
 permalink: /projects/212Project/
 author_profile: true
 header:
@@ -57,7 +57,7 @@ I was responsible for the design and maufacture of the 1-DoF, servo-controlled g
 
 
 <figure class="half">
-    <a href="/assets/images/212_Project/Gripper_Pose1.jpg"><img src="//assets/images/212_Project/Gripper_Pose1.jpg"></a>
+    <a href="/assets/images/212_Project/Gripper_Pose1.jpg"><img src="/assets/images/212_Project/Gripper_Pose1.jpg"></a>
     <a href="/assets/images/212_Project/Gripper_Pose2.jpg"><img src="/assets/images/212_Project/Gripper_Pose2.jpg"></a>
     <figcaption>The gripper in open and closed position</figcaption>
 </figure>
