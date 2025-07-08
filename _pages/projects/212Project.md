@@ -57,8 +57,8 @@ I was responsible for the design and maufacture of the 1-DoF, servo-controlled g
 
 
 {% capture fig_img %}
-![Foo]({{ '/assets/images/212_Project/Gripper_Pose1.png' | relative_url }})
-![Foo]({{ '/assets/images/212_Project/Gripper_Pose2.png' | relative_url }})
+![Foo]({{ '/assets/images/212_Project/Gripper_Pose1.jpg' | relative_url }})
+![Foo]({{ '/assets/images/212_Project/Gripper_Pose2.jpg' | relative_url }})
 {% endcapture %}
 
 <figure>
