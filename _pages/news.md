@@ -8,8 +8,8 @@ header:
   overlay_color: "#8d64a3"
 categories:
   - Projects
-toc: true
-toc_sticky: true
+toc: false
+toc_sticky: false
 toc_label: "Table of Contents"
 toc_icon: "cog"
 tags:
@@ -135,9 +135,9 @@ gallery3:
     alt: "placeholder image 2"
 ---
 
-## Stanford News
+<!--## Stanford News
 
-<!--From 2019-2025-->
+From 2019-2025-->
 
 {% include gallery id="gallery1" class="full" caption="" type="center" %}
 <!--
