@@ -36,6 +36,8 @@ This was a solo project. I was responsible for the design, manufacture, and prog
   <figcaption>Screenshot of Virtual Anatomy in Unity Scene.</figcaption>
 </figure>
 
+Also read about the showcase in [News](/news/rad206FinalProjectNews/){: .btn .btn--primary}
+
 ## Skills
 
 Unity, C#, Arduino, 3D Printing, Haptic Modeling and Rendering

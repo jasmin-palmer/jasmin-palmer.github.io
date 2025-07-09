@@ -67,7 +67,7 @@ I was responsible for the complete mechanical design and manufacture. I designed
 
 <figure class="half">
   <a href="/assets/images/ME218A_Project/veggie-mechanism-array_orig.png"><img src="/assets/images/ME218A_Project/veggie-mechanism-array_orig.png"></a>
-  <a href="/assets/images/ME218A_Project/pic2_orig.png"><img src="/assets/images/ME218A_Project/pic2_orig.png"></a>
+  <a href="/assets/images/ME218A_Project/labeled-pic2_orig.png"><img src="/assets/images/ME218A_Project/labeled-pic2_orig.png"></a>
   <figcaption>CAD model of the rack and pinion risers for the produce.</figcaption>
 </figure>
 

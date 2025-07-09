@@ -97,7 +97,9 @@ From 2019-2025
 
 {% include gallery id="gallery1" class="full" caption="" type="center" %}
 
+<!--
 This is some text after the gallery just to make sure that everything aligns properly.
+-->
 
 ## MIT Projects
 
