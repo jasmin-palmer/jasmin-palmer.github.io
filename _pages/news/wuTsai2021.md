@@ -27,6 +27,6 @@ related: true
 I presented my work at the *Wu Tsai Neurosciences Symposium: The addiction epidemic from neuroscience to policy* poster session of my work!
 
 <figure class="full">
-    <img src=" /assets/images/RAD206_News/WuTsai2021Poster.jpg">
+    <img src=" /assets/images/WuTsai2021Poster.jpg">
 </figure>
 
