@@ -19,17 +19,11 @@ J. E. Palmer, M. Sarac, A. A. Garza and A. M. Okamura, "Haptic Feedback Relocati
 
 ## Contributions
 
-My contributions to this work...
+As the first author, I led the design and development of the virtual environment used in the study. I was responsible for designing the user study protocol, conducting data analysis, and creating visualizations to effectively communicate our findings.
 
-<div markdown="0"><a href="https://ieeexplore.ieee.org/abstract/document/9981392" class="btn">See Full Paper Here!</a></div> 
+<div markdown="0"><a href="https://ieeexplore.ieee.org/abstract/document/9981392" class="btn--primary">See Full Paper Here!</a></div> 
 
 ## Skills
-Lorem ipsum dolor sit amet, test link adipiscing elit. **This is strong**. Nullam dignissim convallis est. Quisque aliquam.
 
-![Smithsonian Image]({{ site.url }}{{ site.baseurl }}/assets/images/EvieGrad.png)
-{: .image-right}
-
-*This is emphasized*. Donec faucibus. Nunc iaculis suscipit dui. 53 = 125. Water is H2O. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. The New York Times (That’s a citation). Underline.Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.
-
-HTML and CSS are our tools. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.
+Experiment Design, Scienific Writing, Data Analysis, Data Visualization, Virtual Reality, CHAI3D, 3D Printing, MATLAB
 
