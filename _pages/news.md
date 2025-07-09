@@ -57,6 +57,11 @@ gallery1:
     alt: "WHC 2023"
     title: "WHC 2023"
 
+  - url: /news/BARS2023/
+    image_path: /assets/images/BARS2023_News/JasminPoster.jpeg
+    alt: "BARS 2023"
+    title: "BARS 2023"
+
   - url: /news/iros2022/
     image_path: /assets/images/IROS2022_News/IROS2022_Presentation.jpg
     alt: "IROS 2022"
@@ -76,6 +81,16 @@ gallery1:
     image_path: /assets/images/RAD206_News/jasmin_palmer_mixed_reality_2021.png
     alt: "Mixed Reality in Medicine Showcase"
     title: "Mixed Reality in Medicine Showcase"
+
+  - url: /news/wuTsai2021/
+    image_path: /assets/images/RAD206_News/WuTsai2021Poster.jpg
+    alt: "Mixed Reality in Medicine Showcase"
+    title: "Mixed Reality in Medicine Showcase"
+
+  - url: /news/jhuLANS/
+    image_path: /assets/images/JHU_LeadershipAlliance/RAD206_News/LANS_Poster_Session.png
+    alt: "JHU Leadership Alliance"
+    title: "JHU Leadership Alliance"
   
   
 gallery2:
