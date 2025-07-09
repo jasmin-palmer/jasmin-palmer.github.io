@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "EE267 Class Final Project"
+title: "Virutal Reality (EE267) Class Final Project"
 permalink: /projects/ee267Project/
 author_profile: true
 header:
@@ -27,12 +27,15 @@ Unity mini-game!
 
 ## My Contributions
 
+
+[EE267 Project Report](/assets/files/EE_267_Final_Project_Report.pdf){: .btn .btn--primary}
+
 <figure class="half">
-   <img src="/assets/images/2THU_Project/MTP04_00_003 iso.png">
-   <img src="/assets/images/2THU_Project/MTP_isoview.jpg">
+   <img src="/assets/images/EE267_Project/SceneView_Inactive.png">
+   <img src="/assets/images/EE267_Project/MTP_isoview.jpg">
     <figcaption>CAD model of the novel prosthesis and 3D printed prototype of the prosthesis.</figcaption>
 </figure>
 
 ## Skills
 
-Unity, C#, Arduino, 3D Printing, Haptic Modeling and Rendering
+Unity, C#, Computer-Aided Design (Solidworks), Blender, Haptic Modeling and Rendering

@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "RAD206 Class Final Project"
+title: "Mixed Reality in Medicine (RAD206) Class Final Project"
 permalink: /projects/rad206Project/
 author_profile: true
 header:
@@ -23,29 +23,32 @@ related: true
 
 ## About the Project
 
-Medical Mixed Reality simulation with haptic augmentations for lumbar puncture procedures.
+Medical Mixed Reality simulation with haptic augmentations for simulating lumbar puncture procedures.
 
 ## My Contributions
 
-This was a solo project. I was responsible for the design, manufacture, and programming of all components of this robot.
+This was a solo project. I was responsible for the design, manufacture, and programming of all components of this simulation and the accompanying haptic device.
 
+[Final Project GitHub](https://github.com/jpalms1/RAD206-FinalProject){: .btn .btn--primary}
 
-https://github.com/jpalms1/RAD206-FinalProject
-
-<figure class="half">
-  <a href="/assets/images/RAD206_Project/DemoSetup.jpg"><img src="/assets/images/RAD206_Project/DemoSetup.jpg"></a>
+<figure class="full">
   <a href="/assets/images/RAD206_Project/Anatomy.png"><img src="/assets/images/RAD206_Project/Final Project Poster FINAL.jpg"></a>
-  <figcaption>Screenshot of Virtual Anatomy in Unity Scene.</figcaption>
+  <figcaption>Poster describing the project.</figcaption>
+</figure
+
+<figure class="full">
+  <a href="/assets/images/RAD206_Project/DemoSetup.jpg"><img src="/assets/images/RAD206_Project/DemoSetup.jpg"></a>
+  <figcaption>Setup of the XR demonstration at the showcase.</figcaption>
 </figure>
 
-<figure class="half">
+<figure class="full">
   <a href="/assets/images/RAD206_Project/DemoSetup.jpg"><img src="/assets/images/RAD206_Project/Anatomy.png"></a>
   <a href="/assets/images/RAD206_Project/Anatomy.png"><img src="/assets/images/RAD206_Project/AnatomyClose.jpg"></a>
   <figcaption>Screenshot of Virtual Anatomy in Unity Scene.</figcaption>
 </figure>
 
-Also read about the showcase in [News](/news/rad206FinalProjectNews/){: .btn .btn--primary}
+You can also read about the showcase in [News](/news/rad206FinalProjectNews/){: .btn .btn--primary}
 
 ## Skills
 
-Unity, C#, Arduino, 3D Printing, Haptic Modeling and Rendering
+Unity, C#, Arduino, Computer-Aided Design (Solidworks), 3D Printing, Haptic Modeling and Rendering
