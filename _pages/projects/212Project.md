@@ -45,14 +45,14 @@ The robot must be desinged in a way so that it can complte three tasks:
 I was responsible for the design and maufacture of the 1-DoF, servo-controlled gripper end effector for the robot arm. 
 
 <figure class="full">
-   <img src="/assets/images/212_Project/Gripper_Assembly_with_Motor.jpg">
-    <figcaption>Screenshot of Gripper CAD.</figcaption>
+  <a href="/assets/images/212_Project/Gripper_Assembly_with_Motor.jpg"><img src="/assets/images/212_Project/Gripper_Assembly_with_Motor.jpg"></a>
+  <figcaption>Screenshot of Gripper CAD.</figcaption>
 </figure>
 
 <figure class="half">
-   <img src="/assets/images/212_Project/Gripper_Pose1.jpg">
-   <img src="/assets/images/212_Project/Gripper_Pose2.jpg">
-    <figcaption>The gripper in open and closed position</figcaption>
+  <a href="/assets/images/212_Project/Gripper_Pose1.jpg"><img src="/assets/images/212_Project/Gripper_Pose1.jpg"></a>
+  <a href="/assets/images/212_Project/Gripper_Pose2.jpg"><img src="/assets/images/212_Project/Gripper_Pose2.jpg"></a>
+  <figcaption>The gripper in open and closed position</figcaption>
 </figure>
 
 <!--
@@ -68,8 +68,8 @@ I was responsible for the design and maufacture of the 1-DoF, servo-controlled g
 -->
 
 <figure class="full">
-   <img src="/assets/images/212_Project/2.12_Selfie.png">
-    <figcaption>Robot Selfie!!</figcaption>
+  <a href="/assets/images/212_Project/2.12_Selfie.png"><img src="/assets/images/212_Project/2.12_Selfie.png"></a>
+  <figcaption>Robot Selfie!!</figcaption>
 </figure>
 
 ## Skills

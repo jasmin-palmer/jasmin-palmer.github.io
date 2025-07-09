@@ -21,11 +21,11 @@ share: false
 related: true
 ---
 
-## About the Final Project
+## About the Class
 
-Mechatronics class part 2 final project.
+Stanford core graduate-level mechatronics class part 2 final project.
 
-### Decription from the Course Staff
+### Project Decription from the Course Staff
 
 #### Goal:
 The goal of this project is to provide you with an opportunity to apply your knowledge to solve an open-ended problem. The task is to design and build a machine that can autonomously navigate the Peterson
@@ -59,15 +59,15 @@ For our final report, we made a website!
 I was responsible for the complete mechanical design and manufacture. I designed and fabricated the chassis, drivetrain, bumpers, electromagnet housing, and all electronic component mounts.
 
 <figure class="third">
-   <img src="/assets/images/ME218B_Project/CAD_Final_isoview.jpg">
-   <img src="/assets/images/ME218B_Project/CAD_Final_BottomView.jpg">
-   <img src="/assets/images/ME218B_Project/CAD_Final_inField.jpg">
-   <figcaption>Final CAD models of our robot!</figcaption>
+  <a href="/assets/images/ME218B_Project/CAD_Final_isoview.jpg"><img src="/assets/images/ME218B_Project/CAD_Final_isoview.jpg"></a>
+  <a href="/assets/images/ME218B_Project/CAD_Final_BottomView.jpg"><img src="/assets/images/ME218B_Project/CAD_Final_BottomView.jpg"></a>
+  <a href="/assets/images/ME218B_Project/CAD_Final_inField.jpg"><img src="/assets/images/ME218B_Project/CAD_Final_inField.jpg"></a>
+  <figcaption>Final CAD models of our robot!</figcaption>
 </figure>
 
 <figure class="full">
-   <img src="/assets/images/ME218B_Project/XJ9_Final_isoview.png">
-    <figcaption>Our robot!</figcaption>
+  <a href="/assets/images/ME218B_Project/XJ9_Final_isoview.png"><img src="/assets/images/ME218B_Project/XJ9_Final_isoview.png"></a>
+  <figcaption>Our robot!</figcaption>
 </figure>
 
 ## Skills

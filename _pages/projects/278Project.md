@@ -36,12 +36,12 @@ Our group designed a 3D-printed plate holder that can be easily attached and rem
 I was responsible for the mechanical design of the plate holder.
 
 <figure class="third">
-  <img src="/assets/images/278_Project/Plate_Stabilizer_Full_Assembly_Collapsed.jpg">
-  <img src="/assets/images/278_Project/Explosion.jpg">
-  <img src="/assets/images/278_Project/Capture.jpg">
+  <a href="/assets/images/278_Project/Plate_Stabilizer_Full_Assembly_Collapsed.jpg"><img src="/assets/images/278_Project/Plate_Stabilizer_Full_Assembly_Collapsed.jpg"></a>
+  <a href="/assets/images/278_Project/Explosion.jpg"><img src="/assets/images/278_Project/Explosion.jpg"></a>
+  <a href="/assets/images/278_Project/Capture.jpg"><img src="/assets/images/278_Project/Capture.jpg"></a>
   <figcaption>CAD model of the adjustable plate holder. Due to scheduling conflicts, the physical prototype was delivered after the course ended and I have no pictures.</figcaption>
 </figure>
 
 ## Skills
 
-Computer-Aided Design (Solidworks), 3D Printing
+Computer-Aided Design (Solidworks), 3D Printing, Hand Tools

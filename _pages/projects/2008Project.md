@@ -60,15 +60,15 @@ My main contributions to this project were:
 -->
 
 <figure class="half">
-  <img src="/assets/images/2008_Project/TotoroYoYo_Exploded.jpg">
-  <img src="/assets/images/2008_Project/TotoroYoYo.jpg">
+  <a href="/assets/images/2008_Project/TotoroYoYo_Exploded.jpg"><img src="/assets/images/2008_Project/TotoroYoYo_Exploded.jpg"></a>
+  <a href="/assets/images/2008_Project/TotoroYoYo.jpg"><img src="/assets/images/2008_Project/TotoroYoYo.jpg"></a>
   <figcaption>Screenshot of the exploded view of the "Totoro-yo" CAD model and image of the final "Totoro-yo".</figcaption>
 </figure>
 
 
 <figure class="full">
-  <img src="/assets/images/2008_Project/Performance_Yoyo.jpg">
-  <figcaption>Image of the final "Performance" yo-yo</figcaption>
+  <a href="/assets/images/2008_Project/Performance_Yoyo.jpg"><img src="/assets/images/2008_Project/Performance_Yoyo.jpg"></a>
+  <figcaption>Image of the final "Performance" yo-yo.</figcaption>
 </figure>
 
 ## Skills

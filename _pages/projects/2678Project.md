@@ -37,13 +37,14 @@ This was a two-person project focused on wiring and programming a line-following
   <figcaption>Wiring for the self-driving robot. Robot on the Test loop.</figcaption>
 </figure>
 
-
+<!--
 ### Our best attempt at the Final Course!
 
 <video controls width="100%" autoplay muted loop>
   <source src="/assets/videos/2678_Line_Follow_Full_Test_Run_Best.mp4">
 </video>
+-->
 
 ## Skills
 
-Arduino, C++
+Arduino, C++, Sensors

@@ -31,9 +31,9 @@ Medical Mixed Reality simulation with haptic augmentations for lumbar puncture p
 This was a solo project. I was responsible for the design, manufacture, and programming of all components of this robot.
 
 <figure class="half">
-   <img src="/assets/images/RAD206_Project/DemoSetup.jpg">
-   <img src="/assets/images/RAD206_Project/Anatomy.png">
-    <figcaption>Screenshot of Virtual Anatomy in Unity Scene.</figcaption>
+  <a href="/assets/images/RAD206_Project/DemoSetup.jpg"><img src="/assets/images/RAD206_Project/DemoSetup.jpg"></a>
+  <a href="/assets/images/RAD206_Project/Anatomy.png"><img src="/assets/images/RAD206_Project/Anatomy.png"></a>
+  <figcaption>Screenshot of Virtual Anatomy in Unity Scene.</figcaption>
 </figure>
 
 ## Skills

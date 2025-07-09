@@ -40,8 +40,8 @@ We will continue to iterate on our design with more 3D printed prototypes until 
 [My Thesis](https://dspace.mit.edu/handle/1721.1/123272){: .btn .btn--primary}
 
 <figure class="half">
-  <img src="/assets/images/2THU_Project/MTP_isoview_CAD.jpg">
-  <img src="/assets/images/2THU_Project/MTP_isoview.jpg">
+  <a href="/assets/images/2THU_Project/MTP_isoview_CAD.jpg"><img src="/assets/images/2THU_Project/MTP_isoview_CAD.jpg"></a>
+  <a href="/assets/images/2THU_Project/MTP_isoview.jpg"><img src="/assets/images/2THU_Project/MTP_isoview.jpg"></a>
   <figcaption>CAD model of the novel prosthesis and 3D printed prototype of the prosthesis.</figcaption>
 </figure>
 
