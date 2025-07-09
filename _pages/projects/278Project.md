@@ -19,8 +19,6 @@ read_time: true
 comments: false
 share: false
 related: true
-intro: 
-  - excerpt: "Principles and Practice of Assistive Technology"
 ---
 
 ## Course Description (Excerpt)
@@ -33,13 +31,10 @@ Principles and Practice of Assistive Technology.
 
 ## My Contributions
 
-{% capture fig_img %}
-![Foo]({{ '/assets/images/MARSS2024-FingerProxy-Cropped.png' | relative_url }})
-{% endcapture %}
-
-<figure>
-  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
-  <figcaption>Screenshot of Virtual Porcine Anatomy in Unity Scene.</figcaption>
+<figure class="half">
+   <img src="/assets/images/2THU_Project/MTP04_00_003 iso.png">
+   <img src="/assets/images/2THU_Project/MTP_isoview.jpg">
+    <figcaption>CAD model of the novel prosthesis and 3D printed prototype of the prosthesis.</figcaption>
 </figure>
 
 ## Skills

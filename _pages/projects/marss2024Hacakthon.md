@@ -19,23 +19,22 @@ read_time: true
 comments: false
 share: false
 related: true
-intro: 
-  - excerpt: "MARSS 2024 Hacakthon"
 ---
 
 ## About the Project
 
 Medical Mixed Reality simulation with haptic and auditory augmentations for laproscopic procedures.
 
+
+[MARSS 2024 Website](https://medicalaugmentedreality.org/mar2024.html){: .btn .btn--primary}
+
 ## My Contributions
 
-{% capture fig_img %}
-![Foo]({{ '/assets/images/MARSS2024-FingerProxy-Cropped.png' | relative_url }})
-{% endcapture %}
+I implemented the Finger-Proxy haptic rendering algorithm to the provided Unity Scene. 
 
-<figure>
-  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
-  <figcaption>Screenshot of Virtual Porcine Anatomy in Unity Scene.</figcaption>
+<figure class="full">
+   <img src="/assets/images/MARSS2024_Project/MARSS2024-FingerProxy-Cropped.png">
+    <figcaption>Screenshot of Virtual Porcine Anatomy in Unity Scene.</figcaption>
 </figure>
 
 ## Skills

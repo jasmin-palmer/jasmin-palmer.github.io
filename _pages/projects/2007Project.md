@@ -27,7 +27,7 @@ intro:
 
 Develops students' competence and self-confidence as design engineers. Emphasis on the creative design process bolstered by application of physical laws. Instruction on how to complete projects on schedule and within budget. Robustness and manufacturability are emphasized. Subject relies on active learning via a major design-and-build project. Lecture topics include idea generation, estimation, concept selection, visual thinking, computer-aided design (CAD), mechanism design, machine elements, basic electronics, technical communication, and ethics.
 
-<div markdown="0"><a href="https://sites.mit.edu/me-2007/" class="btn">Class Website</a></div> 
+[Class Website](https://sites.mit.edu/me-2007/){: .btn .btn--primary}
 
 ## About the Project
 
@@ -51,7 +51,7 @@ This was a solo project in which I designed, built, and programmed every compone
     <img src="/assets/images/2007_Project/2007_Impound_Day.jpg">
     <figcaption>Impound Day for the robot! She's been manufactured and prepped for competition!</figcaption>
 </figure>
-
+ 
 ## Skills
 
 Computer-Aided Design (Solidworks), Milling, Turning (Lathe), 3D Printing, Hand Tools, Design Thinking, Arduino, C++

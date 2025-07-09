@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "2.THU Undergrad Thesis"
+title: "2.THU Undergraduate Thesis"
 permalink: /projects/2THUProject/
 author_profile: true
 header:
@@ -21,27 +21,24 @@ read_time: true
 comments: false
 share: false
 related: true
-intro: 
-  - excerpt: "2.THU Undergrad Thesis"
 ---
+
+## Course Description (Excerpt)
+
+...
 
 ## About the Project
 
 2.THU Undergrad Thesis
 
-<div markdown="0"><a href="https://dspace.mit.edu/handle/1721.1/123272" class="btn">My Thesis</a></div> 
-
+[My Thesis](https://dspace.mit.edu/handle/1721.1/123272){: .btn .btn--primary}
 
 Feet!
 
-
-{% capture fig_img %}
-![Foo]({{ '/assets/images/MARSS2024-FingerProxy-Cropped.png' | relative_url }})
-{% endcapture %}
-
-<figure>
-  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
-  <figcaption>Screenshot of Virtual Porcine Anatomy in Unity Scene.</figcaption>
+<figure class="half">
+   <img src="/assets/images/2THU_Project/MTP04_00_003 iso.png">
+   <img src="/assets/images/2THU_Project/MTP_isoview.jpg">
+    <figcaption>CAD model of the novel prosthesis and 3D printed prototype of the prosthesis.</figcaption>
 </figure>
 
 ## Skills

@@ -19,8 +19,6 @@ read_time: true
 comments: false
 share: false
 related: true
-intro: 
-  - excerpt: "Design and Manufacturing II"
 ---
 
 ## Course Description (Excerpt)
@@ -35,11 +33,11 @@ Students are required to complete a group project to design, manufacture, and as
 
 My group decided to design and manufacture two types of yo-yos: 1) a "performance" yo-yo with uniform weight distrbution to allow for yo-yo tricks, and 2) an "aesthetic" yo-yo to fulfill the requirements to use multiple manufacturing techniques to mass-porduce the yo-yos.
 
-Our "aethetic" yo-yo was themed after the eponymous forest spirit from the acclaimed Japanese film *My Neighbor Totoro* directed by Hayao Miyazaki.
+Our "aesthetic" yo-yo was themed after the eponymous forest spirit from the acclaimed Japanese film *My Neighbor Totoro* directed by Hayao Miyazaki.
 
 More details of the design and manufactring process can be found at our group project website below:
 
-<div markdown="0"><a href="https://studioyoyo.wordpress.com/" class="btn">Lots of Yo-Yos!</a></div> 
+[Lots of Yo-Yos!](https://studioyoyo.wordpress.com/){: .btn .btn--primary}
 
 ## My Contributions
 
@@ -49,32 +47,28 @@ My main contributions to this project were:
 2. The design and manufacture of the corresponding "Totoro-yo" injection molds
 3. The design and manufacture of the Leaf decoration (laser cut acrylic)
 
-
-{% capture fig_img %}
-![Foo]({{ '/assets/images/2008_Project/TotoroYoYo.jpg' | relative_url }})
-{% endcapture %}
-
-<figure>
-  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
-  <figcaption>Image of the final "Totoro-yo".</figcaption>
+<!--
+<figure class="full">
+   <img src="/assets/images/2008_Project/TotoroYoYo.jpg">
+    <figcaption>Image of the final "Totoro-yo</figcaption>
 </figure>
 
-{% capture fig_img %}
-![Foo]({{ '/assets/images/2008_Project/TotoroYoYo_Exploded.jpg' | relative_url }})
-{% endcapture %}
+<figure class="full">
+   <img src="/assets/images/2008_Project/TotoroYoYo_Exploded.jpg">
+    <figcaption>Screenshot of the exploded view of the "Totoro-yo" CAD model</figcaption>
+</figure>
+-->
 
-<figure>
-  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
-  <figcaption>Screenshot of the exploded view of the "Totoro-yo" CAD model.</figcaption>
+<figure class="half">
+   <img src="/assets/images/2008_Project/TotoroYoYo_Exploded.jpg.jpg">
+   <img src="/assets/images/2008_Project/TotoroYoYo.jpg">
+    <figcaption>Screenshot of the exploded view of the "Totoro-yo" CAD model and image of the final "Totoro-yo".</figcaption>
 </figure>
 
-{% capture fig_img %}
-![Foo]({{ '/assets/images/2008_Project/Performance_Yoyo.jpg' | relative_url }})
-{% endcapture %}
 
-<figure>
-  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
-  <figcaption>Image of the final "Performance" yo-yo.</figcaption>
+<figure class="full">
+   <img src="/assets/images/2008_Project/Performance_Yoyo.jpg">
+    <figcaption>Image of the final "Performance" yo-yo</figcaption>
 </figure>
 
 ## Skills

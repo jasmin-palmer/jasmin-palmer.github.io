@@ -18,29 +18,28 @@ read_time: true
 comments: false
 share: false
 related: true
-intro: 
-  - excerpt: "MARSS 2024 Hacakthon"
 ---
 
 ## About the Final Project
 
 Mechatronics class part 1 final project.
 
+## Final Report
+
 For our final report, we made a website!
 
-<div markdown="0"><a href="https://miniplanting.weebly.com/" class="btn">MINI-PLANTING WITH THE MARTIAN!</a></div> 
+[Final Report](https://miniplanting.weebly.com/){: .btn .btn--primary}
 
 ## My Contributions
 
-{% capture fig_img %}
-![Foo]({{ '/assets/images/MARSS2024-FingerProxy-Cropped.png' | relative_url }})
-{% endcapture %}
+I was responsible for the complete mechanical design and manufacture. I designed and fabricated the chassis, rack and pinion risers for the produce, rocket, levers, and all electronic component mounts.
 
-<figure>
-  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
-  <figcaption>Screenshot of Virtual Porcine Anatomy in Unity Scene.</figcaption>
+<figure class="half">
+   <img src="/assets/images/2THU_Project/MTP04_00_003 iso.png">
+   <img src="/assets/images/2THU_Project/MTP_isoview.jpg">
+    <figcaption>CAD model of the novel prosthesis and 3D printed prototype of the prosthesis.</figcaption>
 </figure>
 
 ## Skills
 
-Computer-Aided Design (Solidworks), C, Arduino, 3D Printing, Haptic Modeling and Rendering
+Computer-Aided Design (Solidworks), Laser Cutting, 3D Printing, Hand Tools, C
