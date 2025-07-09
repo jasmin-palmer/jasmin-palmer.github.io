@@ -23,6 +23,8 @@ As the first author, I led the design and development of the virtual environment
 
 <div markdown="0"><a href="https://ieeexplore.ieee.org/abstract/document/9981392" class=".btn--large">See Full Paper Here!</a></div> 
 
+[See Full Paper Here!](https://ieeexplore.ieee.org/abstract/document/9981392){: .btn .btn--primary}
+
 ## Skills
 
 Experiment Design, Scienific Writing, Data Analysis, Data Visualization, Virtual Reality, CHAI3D, 3D Printing, MATLAB
