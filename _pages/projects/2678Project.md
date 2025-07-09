@@ -40,7 +40,9 @@ This was a two-person project focused on wiring and programming a line-following
 
 ### Our best attempt at the Final Course!
 
-<iframe width="640" height="360" src="/assets/videos/2678_Line_Follow_Full_Test_Run_Best.mp4" frameborder="0" allowfullscreen></iframe>
+<video controls width="100%" autoplay muted loop>
+  <source src="/assets/videos/2678_Line_Follow_Full_Test_Run_Best.mp4">
+</video>
 
 ## Skills
 
