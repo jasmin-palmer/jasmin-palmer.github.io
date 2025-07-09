@@ -27,16 +27,21 @@ Practical introduction to the fundamentals of electronics in the context of elec
 
 ## About the Project
 
-Principles and Practice of Assistive Technology.
+This was a two-person project focused on wiring and programming a line-following robot to autonomously navigate a designated course.
 
 ## My Contributions
 
 <figure class="half">
-   <img src="/assets/images/2THU_Project/MTP04_00_003 iso.png">
-   <img src="/assets/images/2THU_Project/MTP_isoview.jpg">
-    <figcaption>CAD model of the novel prosthesis and 3D printed prototype of the prosthesis.</figcaption>
+  <img src="/assets/images/2678_Project/Wiring.jpg">
+  <img src="/assets/images/2678_Project/TestLoop.jpg">
+  <figcaption>Wiring for the self-driving robot. Robot on the Test loop.</figcaption>
 </figure>
+
+
+### Our best attempt at the Final Course!
+
+<iframe width="640" height="360" src="/assets/videos/2678_Line_Follow_Full_Test_Run_Best.mp4" frameborder="0" allowfullscreen></iframe>
 
 ## Skills
 
-Computer-Aided Design (Solidworks), 3D Printing, Arduino, C++
+Arduino, C++
