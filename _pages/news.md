@@ -43,7 +43,7 @@ gallery1:
     title: "MARSS 2024 Hackathon"
         
   - url: /news/hapticsSymposium2024/
-    image_path: /assets/images/HapticsSymposium2024_News/1691557644531.jpg
+    image_path: /assets/images/HapticsSymposium2024_News/Lab_HS2024.jpeg
     alt: "Haptics Symposium 2024"
     title: "Haptics Symposium 2024"
     
@@ -53,8 +53,8 @@ gallery1:
     title: "ICRA 2024"
     
   - url: /news/whc2023/
-    image_path: /assets/images/WHC2023_News/1718272063709.jpg
-    alt: "WHc 2023"
+    image_path: /assets/images/WHC2023_News/1691557644531.jpg
+    alt: "WHC 2023"
     title: "WHC 2023"
 
   - url: /news/iros2022/

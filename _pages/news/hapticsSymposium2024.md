@@ -28,7 +28,7 @@ Many CHARM members attended IEEE Haptics Symposium 2024. I gave an oral presenta
 See more at: https://charm.stanford.edu/Main/LabNews
 
 <figure class="full">
-    <img src="/assets/images/HapticsSymposium2024_News/Lab_HS2024.jpg">
+    <img src="/assets/images/HapticsSymposium2024_News/Lab_HS2024.jpeg">
     <figcaption>CHARM Lab at Haptics Symposium 2024!</figcaption>
 </figure>
 
