@@ -87,7 +87,7 @@ gallery1:
     alt: "Wu Tsai Neurosciences Symposium"
     title: "Wu Tsai Neurosciences Symposium"
 
-    - url: /news/commencement2019/
+  - url: /news/commencement2019/
     image_path: /assets/images/Commencement_2019/JasminWithDegree.jpeg
     alt: "Commencement 2019"
     title: "Commencement 2019!"

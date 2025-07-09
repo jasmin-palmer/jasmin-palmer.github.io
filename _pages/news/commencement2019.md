@@ -43,6 +43,6 @@ I graduated from MIT with an SB in Mechanical Engineering with a Concentration i
 I flipped my Brass Rat!!!! 
 
 <figure class="full">
-    <img src="/assets/images/Commencement_2019/BrassRat.jpg">
+    <img src="/assets/images/Commencement_2019/BrassRat.jpeg">
     <figcaption></figcaption>
 </figure>
