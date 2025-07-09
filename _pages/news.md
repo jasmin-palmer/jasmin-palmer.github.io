@@ -68,7 +68,7 @@ gallery1:
     title: "eWear Symposium 2023"
 
   - url: /news/stanfordXR2022/
-    image_path: /assets/images/IROS2022_News/Jasmin_StanfordXR_Presentation.png
+    image_path: assets/images/Jasmin_StanfordXR_Presentation.png
     alt: "Stanford XR 2022"
     title: "Stanford XR 2022"
 

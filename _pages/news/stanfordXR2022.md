@@ -26,9 +26,8 @@ related: true
 
 CHARM PhD student Jasmin Palmer presented her work at the 2022 StanfordXR Conference! 
 
-<figure class="half">
-    <img src="/assets/images/Jasmin_StanfordXR_Presentation.jpg">
-    <img src="/assets/images/WHC2023_News/1691557644270.jpg">
+<figure class="full">
+    <img src="/assets/images/Jasmin_StanfordXR_Presentation.png">
     <figcaption>Preseting my work at eWear!</figcaption>
 </figure>
 
