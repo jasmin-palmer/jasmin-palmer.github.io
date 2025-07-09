@@ -48,7 +48,7 @@ I also developed the haptic rendering algorithm for this XR simulation as well a
 
 <figure class="full">
     <img src="/assets/images/MARSS2024_News/MARSS_Certificate.jpg">
-    <figcaption>Certificate</figcaption>
+    <figcaption>My certificate for completing the Medical Augmented Reality Summer School!</figcaption>
 </figure>
 
 

@@ -52,6 +52,11 @@ gallery1:
     alt: "ICRA 2024"
     title: "ICRA 2024"
     
+  - url: /news/whc2023/
+    image_path: /assets/images/WHC2023_News/1718272063709.jpg
+    alt: "WHc 2023"
+    title: "WHC 2023"
+
   - url: /news/iros2022/
     image_path: /assets/images/IROS2022_News/IROS2022_Presentation.jpg
     alt: "IROS 2022"
@@ -96,10 +101,10 @@ gallery3:
 
 ## Stanford News
 
-From 2019-2025
+<!--From 2019-2025-->
 
 {% include gallery id="gallery1" class="full" caption="" type="center" %}
-
+<!--
 This is some text after the gallery just to make sure that everything aligns properly.
 
 ## MIT News
@@ -108,7 +113,7 @@ From 2015-2019
 
 {% include gallery id="gallery2" class="full" caption="" type="center" %}
 
-<!--
+
 ## Gallery 3
 
 And for giggles one more gallery just to make sure this works. To fill page content container add `class="full"`.
