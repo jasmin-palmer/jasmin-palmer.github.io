@@ -2,6 +2,7 @@
 title: "In vivo demonstration of photoacoustic-guided liver surgery"
 header:
   overlay_color: "#8d64a3"
+tagline: "Kempski, K.M., Wiacek, A., **Palmer, J.**, Graham, M., González, E., Goodson, B., Allman, D., Hou, H., Beck, S., He, J. and Bell, M.A.L., ``In vivo demonstration of photoacoustic-guided liver surgery``, Proc. SPIE, Photons Plus Ultrasound: Imaging and Sensing, 10878:108782T, 2019."
 tags:
   - Published Research Papers
   - Johns Hopkins University
@@ -15,14 +16,13 @@ share: false
 related: true
 ---
 
-Kempski, K.M., Wiacek, A., **Palmer, J.**, Graham, M., González, E., Goodson, B., Allman, D., Hou, H., Beck, S., He, J. and Bell, M.A.L., “In vivo demonstration of photoacoustic-guided liver surgery”, Proc. SPIE, Photons Plus Ultrasound: Imaging and Sensing, 10878:108782T, 2019.
+
 
 ## My Contributions
 
 My contributions to this work...
 
-<div markdown="0"><a href="https://doi.org/10.1117/12.2510500" class="btn">See Full Paper Here!</a></div> 
-
+[See Full Paper Here!](https://doi.org/10.1117/12.2510500){: .btn .btn--primary}
 
 ## Skills
 

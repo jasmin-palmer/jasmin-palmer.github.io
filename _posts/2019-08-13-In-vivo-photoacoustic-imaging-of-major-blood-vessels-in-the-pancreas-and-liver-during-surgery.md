@@ -2,6 +2,7 @@
 title: "In vivo photoacoustic imaging of major blood vessels in the pancreas and liver during surgery"
 header:
   overlay_color: "#8d64a3"
+tagline: "Kempski, K.M., Wiacek, A., Graham, M., González, E., Goodson, B., Allman, D., **Palmer, J.E.**, Hou, H., Beck, S., He, J. and Bell, M.A.L. , ``In vivo photoacoustic imaging of major blood vessels in the pancreas and liver during surgery,`` Journal of Biomedical Optics 24(12):121905, 2019. "
 tags:
   - Published Research Papers
   - Johns Hopkins University
@@ -15,13 +16,13 @@ share: false
 related: true
 ---
 
-Kempski, K.M., Wiacek, A., Graham, M., González, E., Goodson, B., Allman, D., **Palmer, J.E.**, Hou, H., Beck, S., He, J. and Bell, M.A.L. , “In vivo photoacoustic imaging of major blood vessels in the pancreas and liver during surgery,” Journal of Biomedical Optics 24(12):121905, 2019. 
+
 
 ## My Contributions
 
 My contributions to this work...
 
-<div markdown="0"><a href="https://doi.org/10.1117/1.JBO.24.12.121905" class="btn">See Full Paper Here!</a></div> 
+[See Full Paper Here!](https://doi.org/10.1117/1.JBO.24.12.121905){: .btn .btn--primary}
 
 ## Skills
 Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
