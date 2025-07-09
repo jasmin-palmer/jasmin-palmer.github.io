@@ -27,8 +27,8 @@ related: true
 I presented my work at the Leadership Alliance National Symposium (LANS) poster session hosted by Brown University!
 
 <figure class="full">
-    <img src=" /assets/images/JHU_LeadershipAlliance/RAD206_News/Jasmin_Palmer_LANS_Poster_Final_PI_Approved.png">
-    <img src=" /assets/images/JHU_LeadershipAlliance/RAD206_News/LANS_Poster_Session.png">
+    <img src=" /assets/images/JHU_LANS_News/Jasmin_Palmer_LANS_Poster_Final_PI_Approved.png">
+    <img src=" /assets/images/JHU_LANS_News/LANS_Poster_Session.jpg">
     <figcaption>My poster on light delivery system for visual servoing of scissor locations during photoacoustic-guided liver surgery</figcaption>
 </figure>
 

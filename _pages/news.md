@@ -83,12 +83,12 @@ gallery1:
     title: "Mixed Reality in Medicine Showcase"
 
   - url: /news/wuTsai2021/
-    image_path: /assets/images/RAD206_News/WuTsai2021Poster.jpg
-    alt: "Mixed Reality in Medicine Showcase"
-    title: "Mixed Reality in Medicine Showcase"
+    image_path: /assets/images/WuTsai2021Poster.jpg
+    alt: "Wu Tsai Neurosciences Symposium"
+    title: "Wu Tsai Neurosciences Symposium"
 
   - url: /news/jhuLANS/
-    image_path: /assets/images/JHU_LeadershipAlliance/RAD206_News/LANS_Poster_Session.png
+    image_path: /assets/images/JHU_LANS_News/LANS_Poster_Session.jpg
     alt: "JHU Leadership Alliance"
     title: "JHU Leadership Alliance"
   
