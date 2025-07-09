@@ -2,6 +2,8 @@
 layout: single
 title: "Community Impact Award 2025"
 permalink: /news/communityImpactAward2025/
+date: 2025-05-15
+show_date: true
 author_profile: true
 header:
   overlay_color: "#8d64a3"

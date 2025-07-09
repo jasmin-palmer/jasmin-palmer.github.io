@@ -43,12 +43,12 @@ gallery1:
     title: "MARSS 2024 Hackathon"
         
   - url: /news/hapticsSymposium2024/
-    image_path: /assets/images/HapticsSymposium2024_News/20240907_162543.jpg
+    image_path: /assets/images/HapticsSymposium2024_News/1691557644531.jpg
     alt: "Haptics Symposium 2024"
     title: "Haptics Symposium 2024"
     
   - url: /news/icra2024/
-    image_path: /assets/images/ICRA2024_News/20240907_162543.jpg
+    image_path: /assets/images/ICRA2024_News/1718272063709.jpg
     alt: "ICRA 2024"
     title: "ICRA 2024"
     

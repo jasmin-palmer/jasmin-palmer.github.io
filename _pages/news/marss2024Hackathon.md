@@ -2,6 +2,8 @@
 layout: single
 title: "Medical Augmented Reality Summer School (MARSS) 2024"
 permalink: /news/marss2024Hackathon/
+date: 2025-09-15
+show_date: true
 author_profile: true
 header:
   overlay_color: "#8d64a3"
@@ -44,7 +46,7 @@ I was responsible for the design and maufacture of the 1-DoF, servo-controlled h
 
 I also developed the haptic rendering algorithm for this XR simulation as well as programmed the serial communication between virtual environment and haptic device.
 
-<figure class="half">
+<figure class="full">
     <img src="/assets/images/MARSS2024_News/MARSS_Certificate.jpg">
     <figcaption>Certificate</figcaption>
 </figure>

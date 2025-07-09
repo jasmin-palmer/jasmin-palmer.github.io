@@ -2,7 +2,7 @@
 layout: single
 title: "PhD Defense"
 permalink: /news/hapticsSymposium2024/
-date: 2024-04-28
+date: 2024-04-10
 show_date: true
 author_profile: true
 header:
