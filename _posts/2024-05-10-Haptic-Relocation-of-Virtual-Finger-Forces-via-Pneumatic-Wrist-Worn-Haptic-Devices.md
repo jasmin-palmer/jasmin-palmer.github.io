@@ -3,6 +3,8 @@ title: "Haptic Relocation of Virtual Finger Forces via Pneumatic Wrist-Worn Hapt
 header:
   overlay_color: "#8d64a3"
 tagline: "**J. E. Palmer**, B. B. Vuong, Z. Zhakypov, Y. Qin, L. Tilton and A. M. Okamura, *Haptic Relocation of Virtual Finger Forces via Pneumatic Wrist-Worn Haptic Devices*, 2024 IEEE Haptics Symposium (HAPTICS), Long Beach, CA, USA, 2024, pp. 315-320, doi: 10.1109/HAPTICS59260.2024.10520855."
+date: 2024-05-10
+show_date: true
 tags:
   - Published Research Papers
   - Stanford

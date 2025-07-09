@@ -2,6 +2,8 @@
 title: "Haptic Feedback Relocation from the Fingertips to the Wrist for Two-Finger Manipulation in Virtual Reality"
 header:
   overlay_color: "#8d64a3"
+date: 2022-10-26
+show_date: true
 tags:
   - Published Research Papers
   - Stanford
