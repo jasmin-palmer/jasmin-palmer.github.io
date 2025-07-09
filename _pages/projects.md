@@ -26,18 +26,22 @@ gallery1:
     image_path: /assets/images/MARSS2024_Project/MARSS2024_GalleryIcon.png
     alt: "MARSS 2024 Hackathon Project"
     title: "MARSS 2024 Hackathon Project"
+
   - url: /projects/ee267Project/
     image_path: /assets/images/EE267_Project/EE267_GalleryIcon.png
     alt: "EE267 Final Project"
     title: "EE267 Final Project"
+
   - url:  /projects/rad206Project/
     image_path: /assets/images/RAD206_Project/RAD206_GalleryIcon.png
     alt: "RAD206 Final Project"
     title: "RAD206 Final Project"
+
   - url: /projects/me218BProject/
     image_path: /assets/images/ME218B_Project/ME218B_GalleryIcon.png
     alt: "ME218B Class Final Project"
     title: "ME218B Class Final Project"
+
   - url: /projects/me218AProject/
     image_path: /assets/images/ME218A_Project/ME218A_GalleryIcon.png
     alt: "ME218A Class Final Project"
@@ -48,26 +52,32 @@ gallery2:
     image_path: /assets/images/2THU_Project/2THU_GalleryIcon.png
     alt: "2.THU Undergrad Thesis"
     title: "2.THU Undergrad Thesis"
+
   - url: /projects/278Project/
     image_path: /assets/images/278_Project/278_GalleryIcon.png
     alt: "2.78 Assistive Technology Class Final Project"
     title: "2.78 Assistive Technology Class Final Project"
+
   - url: /projects/2678Project/
     image_path: /assets/images/2678_Project/2678_GalleryIcon.png
     alt: "2.678 Electronics for Mechanical System Final Project"
     title: "2.678 Electronics for Mechanical Systems Final Project"
+
   - url: /projects/2008Project/
     image_path: /assets/images/2008_Project/2008_GalleryIcon.png
     alt: "2.008 Design and Manufacturing II Final Project"
     title: "2.008 Design and Manufacturing II Final Project"
+
   - url: /projects/212Project/
     image_path: /assets/images/212_Project/212_GalleryIcon.png
     alt: "2.12 Introduction to Robotics Final Project"
     title: "2.12 Introduction to Robotics Final Project"
+
   - url: /projects/2007Project/
     image_path: /assets/images/2007_Project/2007_GalleryIcon.png
     alt: "2.007 Design and Manufacturing I Final Project"
     title: "2.007 Design and Manufacturing I Final Project"
+
   - url: /projects/fpopDMEProject/
     image_path: /assets/images/fpopDME_Project/fpopDME_GalleryIcon.png
     alt: "MIT FPOP Project - Discovering Mechanical Engineering"
@@ -76,6 +86,7 @@ gallery2:
 gallery3:
   - image_path: /assets/images/EvieGrad.png
     alt: "placeholder image 1"
+
   - image_path: /assets/images/EvieGrad.png
     alt: "placeholder image 2"
 ---
