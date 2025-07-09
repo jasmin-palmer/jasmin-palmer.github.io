@@ -5,6 +5,7 @@ permalink: /news/marss2024Hackathon/
 date: 2025-09-15
 show_date: true
 author_profile: true
+excerpt: "Suzhou, China"
 header:
   overlay_color: "#8d64a3"
 categories:

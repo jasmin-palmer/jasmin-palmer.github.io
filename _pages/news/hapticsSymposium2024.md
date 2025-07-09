@@ -5,6 +5,7 @@ permalink: /news/hapticsSymposium2024/
 date: 2024-04-10
 show_date: true
 author_profile: true
+excerpt: "Long Beach, CA, USA"
 header:
   overlay_color: "#8d64a3"
 categories:

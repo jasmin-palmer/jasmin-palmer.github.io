@@ -5,6 +5,7 @@ permalink: /news/phdDefense/
 date: 2025-04-28
 show_date: true
 author_profile: true
+excerpt: "Stanford, CA, USA"
 header:
   overlay_color: "#8d64a3"
 categories:
@@ -34,13 +35,13 @@ I'm incredibly grateful for the support of my advisor, Allison Okamura, my commi
 I'm looking forward to the next chapter (besides the ones I have to finish writing!) — and to continuing to shape the future of immersive technology through better, more intuitive haptic design.
 
 <figure class="half">
-    <img src="/assets/imags/PhD_Defense/IMG_20250429_200808-cropped.jpg">
+    <img src="/assets/images/PhD_Defense/IMG_20250429_200808-cropped.jpg">
     <img src="/assets/images/PhD_Defense/IMG_20250429_200846-cropped.jpg">
     <figcaption>Thank you to my committee!</figcaption>
 </figure>
 
 <figure class="half">
-    <img src="/assets/imags/PhD_Defense/20250429_161049.jpg">
+    <img src="/assets/images/PhD_Defense/20250429_161049.jpg">
     <img src="/assets/images/PhD_Defense/20250429_160935.jpg">
     <figcaption>Thanks for celebrating with me CHARM Lab!</figcaption>
 </figure>

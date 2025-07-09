@@ -61,6 +61,22 @@ gallery1:
     image_path: /assets/images/IROS2022_News/IROS2022_Presentation.jpg
     alt: "IROS 2022"
     title: "IROS 2022"
+
+  - url: /news/eWear2023/
+    image_path: /assets/images/Jasmin_eWear2023.jpg
+    alt: "eWear Symposium 2023"
+    title: "eWear Symposium 2023"
+
+  - url: /news/stanfordXR2022/
+    image_path: /assets/images/IROS2022_News/Jasmin_StanfordXR_Presentation.png
+    alt: "Stanford XR 2022"
+    title: "Stanford XR 2022"
+
+  - url: /news/rad206FinalProjectNews/
+    image_path: /assets/images/RAD206_News/jasmin_palmer_mixed_reality_2021.png
+    alt: "Mixed Reality in Medicine Showcase"
+    title: "Mixed Reality in Medicine Showcase"
+  
   
 gallery2:
   - url: /projects/2THUProject/

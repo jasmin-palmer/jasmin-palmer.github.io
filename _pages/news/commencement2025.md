@@ -5,6 +5,7 @@ permalink: /news/commencement2025/
 date: 2025-06-15
 show_date: true
 author_profile: true
+excerpt: "Stanford, CA, USA"
 header:
   overlay_color: "#8d64a3"
 categories:
