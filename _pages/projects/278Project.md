@@ -25,16 +25,21 @@ related: true
 
 Students work closely with people with disabilities to develop assistive and adaptive technologies that help them live more independently. Covers design methods and problem-solving strategies; human factors; human-machine interfaces; community perspectives; social and ethical aspects; and assistive technology for motor, cognitive, perceptual, and age-related impairments. Prior knowledge of one or more of the following areas useful: software; electronics; human-computer interaction; cognitive science; mechanical engineering; control; or MIT hobby shop, MIT PSC, or other relevant independent project experience. 
 
-## About
+## About the Project
 
-Principles and Practice of Assistive Technology.
+Our client was a 16 year old high school student with congenital weakness in her right leg and uses forearm crutches. She asked us to develop a small and portable attahcment to make it easier for her to carry a plate of food.
+
+Our group designed a 3D-printed plate holder that can be easily attached and removed from our client's cructch and can hold a variety of plate sizes by adjusting the arms.
 
 ## My Contributions
 
-<figure class="half">
-   <img src="/assets/images/2THU_Project/MTP04_00_003 iso.png">
-   <img src="/assets/images/2THU_Project/MTP_isoview.jpg">
-    <figcaption>CAD model of the novel prosthesis and 3D printed prototype of the prosthesis.</figcaption>
+I was responsible for the mechanical design of the plate holder.
+
+<figure class="third">
+   <img src="/assets/images/278_Project/Plate_Stabilizer_Full_Assembly_Collapsed.png">
+   <img src="/assets/images/278_Project/Final Documentation/Explosion.png">
+   <img src="/assets/images/278_Project/Final Documentation/Capture.png">
+    <figcaption>CAD model of the adjustable plate holder. Due to scheduling conflicts, the physical prototype was delivered after the course ended and I have no pictures.</figcaption>
 </figure>
 
 ## Skills
