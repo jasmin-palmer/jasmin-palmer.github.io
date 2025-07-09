@@ -34,49 +34,19 @@ To my family, Paulette Palmer and Michael Palmer, and the village that raised me
 
 As PhD students, we navigated a lot of challenges: COVID closures, late nights, missed holidays with family, cancelled or reduced funding, devaluing of our work, just to name a few. 
 
-I’m proud to be one of the 1010 PhD graduates in Stanford’s largest-ever doctoral class.
+I’m proud to be one of the 1010 PhD graduates in Stanford’s largest-ever doctoral class!
+
+<figure class="full">
+    <img src="/assets/images/Commencement_2025/TE3A56462.jpg">
+</figure>
+
 
 ## My Contributions
 
 I'm a doctor!!!! 
 
-{% capture fig_img %}
-![Foo]({{ '/assets/images/212_Project/Gripper_Assembly_with_Motor.jpg' | relative_url }})
-{% endcapture %}
-
-<figure>
-  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
-  <figcaption>Screenshot of Gripper CAD.</figcaption>
-</figure>
-
-
 <figure class="half">
-    <a href="/assets/images/212_Project/Gripper_Pose1.jpg"><img src="/assets/images/212_Project/Gripper_Pose1.jpg"></a>
-    <a href="/assets/images/212_Project/Gripper_Pose2.jpg"><img src="/assets/images/212_Project/Gripper_Pose2.jpg"></a>
-    <figcaption>The gripper in open and closed position</figcaption>
+    <img src="/assets/images/Commencement_2025/50408248_00201_0015_Medium.jpg">
+    <img src="/assets/images/Commencement_2025/50408248_01401_0044_Medium.jpg">
+    <figcaption>Thank you to my committee!</figcaption>
 </figure>
-
-<!--
-{% capture fig_img %}
-![Foo]({{ '/assets/images/212_Project/Gripper_Pose1.jpg' | relative_url }})
-![Foo]({{ '/assets/images/212_Project/Gripper_Pose2.jpg' | relative_url }})
-{% endcapture %}
-
-<figure>
-  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
-  <figcaption>The gripper</figcaption>
-</figure>
--->
-
-{% capture fig_img %}
-![Foo]({{ '/assets/images/212_Project/2.12_Selfie.png' | relative_url }})
-{% endcapture %}
-
-<figure>
-  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
-  <figcaption>Robot Selfie!!</figcaption>
-</figure>
-
-## Skills
-
-Computer-Aided Design (Solidworks), Laser Cutting, 3D Printing, Arduino, C++

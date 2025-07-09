@@ -28,6 +28,6 @@ CHARM PhD student Jasmin Palmer presented her work at the 2022 StanfordXR Confer
 
 <figure class="full">
     <img src="/assets/images/Jasmin_StanfordXR_Presentation.png">
-    <figcaption>Preseting my work at eWear!</figcaption>
+    <figcaption>Preseting my work at Stanford XR!</figcaption>
 </figure>
 

@@ -2,7 +2,7 @@
 layout: single
 title: "eWear Symposium 2023"
 permalink: /news/eWear2023/
-date: 2023-02-03
+date: 2023-02-08
 show_date: true
 author_profile: true
 excerpt: "Stanford, CA, USA"
@@ -22,13 +22,13 @@ share: false
 related: true
 ---
 
-## eWear!
+## eWear 2023!
 
-Congratulations to CHARMers who presented their work at the eWear annual symposium! Presenters include Rianna Jitosho, Kyle Yoshida, Rachel Adenekan, Brian Do, and Jasmin Palmer. Congratulations to Brian Do for winning the best poster presentation award! 
+I presented a poster at Stanford annual eWear Symposium!
 
 <figure class="half">
     <img src="/assets/images/Jasmin_eWear2023.jpg">
-    <img src="/assets/images/WHC2023_News/1691557644270.jpg">
-    <figcaption>Preseting my work at eWear!</figcaption>
+    <img src="/assets/images/eWear2023Poster.jpg">
+    <figcaption>Presenting my work at eWear!</figcaption>
 </figure>
 

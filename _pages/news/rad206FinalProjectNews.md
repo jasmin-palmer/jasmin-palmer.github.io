@@ -37,6 +37,6 @@ Also see my Projects Page! /projects/rad206Project/
 <figure class="half">
     <img src="/assets/images/RAD206_News/jasmin_palmer_mixed_reality_2021.png">
     <img src="/assets/images/RAD206_News/palmer_achatz_square_sm.png">
-    <figcaption>Preseting my work at eWear!</figcaption>
+    <figcaption>Demonstrating my XR lumbar puncture simulation augmented with haptic feedback!</figcaption>
 </figure>
 
