@@ -29,13 +29,19 @@ I'm excited to share that, on Monday, April 28th, 2025, I successfully defended 
 
 I'm incredibly grateful for the support of my advisor, Allison Okamura, my committee, my labmates at CHARM, mentors, and everyone who contributed along the way.
 
-❤️ Special thanks to my friends and family—your encouragement, patience, and belief in me made all the difference.
+❤️ Special thanks to my friends and family — your encouragement, patience, and belief in me made all the difference.
 
 I'm looking forward to the next chapter (besides the ones I have to finish writing!) — and to continuing to shape the future of immersive technology through better, more intuitive haptic design.
 
 <figure class="half">
-    <img src="/assets/imags/212_Project/20250429_161049.jpg">
-    <img src="/assets/images/212_Project/20250429_160935.jpg">
+    <img src="/assets/imags/PhD_Defense/IMG_20250429_200808-cropped.jpg">
+    <img src="/assets/images/PhD_Defense/IMG_20250429_200846-cropped.jpg">
+    <figcaption>Thank you to my committee!</figcaption>
+</figure>
+
+<figure class="half">
+    <img src="/assets/imags/PhD_Defense/20250429_161049.jpg">
+    <img src="/assets/images/PhD_Defense/20250429_160935.jpg">
     <figcaption>Thanks for celebrating with me CHARM Lab!</figcaption>
 </figure>
 

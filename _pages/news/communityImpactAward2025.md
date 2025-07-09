@@ -21,66 +21,16 @@ share: false
 related: true
 ---
 
-## Description
+## Description of the Award
 
-...
+"We are thrilled to inform you that you are a 2025 Stanford Community Impact Award honoree! The Stanford Alumni Association offers this honor to exceptional graduate students who have demonstrated profound dedication to the university and overall Stanford community.
 
-## About the Project
+Each year, Stanford staff, faculty, advisors, and senior administrators are asked to nominate students who have made a truly meaningful impact on the university community. Jasmin, we are so pleased to recognize your energy, spirit, and contributions. You have consistently fostered a sense of belonging and inspired enthusiasm among your fellow graduate students, and we’re very grateful.
 
-Our group was asked to develop an assistive robot that can work side by side with a patient for daily chores.
+In recognition of your achievement, the Stanford Alumni Association is awarding you a personalized certificate and hosting a celebratory reception in your honor on Wednesday, May 21, 5–6:30 p.m. You will receive a follow-up email from Stanford Student and Young Alumni Manager Caddie Coupe with event details and an RSVP request.
 
-The scenario presented to us was:
+On behalf of Stanford University and more than 245,000 alumni, thank you for your significant contributions to the Stanford community. Thanks to you, Stanford is a better place."
 
-* A hemiplegic patient is unable to move one arm
-* The patient needs assistance in dressing and bed-making
-
-The robot must be desinged in a way so that it can complte three tasks:
-
-1. A robot arm assists the patient in pulling a drawer together with him/her, so the patient can take a garment out of the drawer
-2. The robot arm also assists the patient in donning a garment
-3. A mobile robot fetches a blanket and covers a bed with the blanket together with the patient
-
-## My Contributions
-
-I was responsible for the design and maufacture of the 1-DoF, servo-controlled gripper end effector for the robot arm. 
-
-{% capture fig_img %}
-![Foo]({{ '/assets/images/212_Project/Gripper_Assembly_with_Motor.jpg' | relative_url }})
-{% endcapture %}
-
-<figure>
-  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
-  <figcaption>Screenshot of Gripper CAD.</figcaption>
+<figure class="full">
+    <img src="/assets/images/Community_Impact_Award/20250521_180010.jpg">
 </figure>
-
-
-<figure class="half">
-    <a href="/assets/images/212_Project/Gripper_Pose1.jpg"><img src="/assets/images/212_Project/Gripper_Pose1.jpg"></a>
-    <a href="/assets/images/212_Project/Gripper_Pose2.jpg"><img src="/assets/images/212_Project/Gripper_Pose2.jpg"></a>
-    <figcaption>The gripper in open and closed position</figcaption>
-</figure>
-
-<!--
-{% capture fig_img %}
-![Foo]({{ '/assets/images/212_Project/Gripper_Pose1.jpg' | relative_url }})
-![Foo]({{ '/assets/images/212_Project/Gripper_Pose2.jpg' | relative_url }})
-{% endcapture %}
-
-<figure>
-  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
-  <figcaption>The gripper</figcaption>
-</figure>
--->
-
-{% capture fig_img %}
-![Foo]({{ '/assets/images/212_Project/2.12_Selfie.png' | relative_url }})
-{% endcapture %}
-
-<figure>
-  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
-  <figcaption>Robot Selfie!!</figcaption>
-</figure>
-
-## Skills
-
-Computer-Aided Design (Solidworks), Laser Cutting, 3D Printing, Arduino, C++

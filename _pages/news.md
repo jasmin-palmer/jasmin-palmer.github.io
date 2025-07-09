@@ -27,15 +27,15 @@ gallery1:
     alt: "Commencement 2025"
     title: "Commencement 2025!"
 
-  - url: /news/phdDefense/
-    image_path: /assets/images/PhD_Defense/IMG_20250429_200808-cropped.jpg
-    alt: "PhD Defense"
-    title: "PhD Defense"
-
   - url: /news/communityImpactAward2025/
     image_path: /assets/images/Community_Impact_Award/20250521_180010.jpg
     alt: "Community Impact Award 2025"
     title: "Community Impact Award 2025"
+
+  - url: /news/phdDefense/
+    image_path: /assets/images/PhD_Defense/IMG_20250429_200808-cropped.jpg
+    alt: "PhD Defense"
+    title: "PhD Defense"
 
   - url: /news/marss2024Hackathon/
     image_path: /assets/images/MARSS2024_News/20240907_162543.jpg
