@@ -2,7 +2,7 @@
 layout: single
 title: "Haptics Symposium 2024"
 permalink: /news/hapticsSymposium2024/
-date: 2024-04-10
+date: 2024-04-12
 show_date: true
 author_profile: true
 excerpt: "Long Beach, CA, USA"

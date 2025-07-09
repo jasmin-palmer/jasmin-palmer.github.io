@@ -48,5 +48,5 @@ I'm a doctor!!!!
 <figure class="half">
     <img src="/assets/images/Commencement_2025/50408248_00201_0015_Medium.jpg">
     <img src="/assets/images/Commencement_2025/50408248_01401_0044_Medium.jpg">
-    <figcaption>Thank you to my committee!</figcaption>
+    <figcaption>Thank you for being my advisor, Allison!</figcaption>
 </figure>

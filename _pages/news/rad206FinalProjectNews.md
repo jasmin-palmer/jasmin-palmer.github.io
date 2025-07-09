@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "eWear Symposium 2023"
+title: "RAD 206 Mixed Reality in Medicine Final Project Public Showcase"
 permalink: /news/rad206FinalProjectNews/
 date: 2021-12-16
 show_date: true
