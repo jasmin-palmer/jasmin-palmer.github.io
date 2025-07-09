@@ -36,9 +36,9 @@ related: true
 Feet!
 
 <figure class="half">
-   <img src="/assets/images/2THU_Project/MTP04_00_003 iso.png">
+   <img src="/assets/images/2THU_Project/MTP_isoview_CAD.png">
    <img src="/assets/images/2THU_Project/MTP_isoview.jpg">
-    <figcaption>CAD model of the novel prosthesis and 3D printed prototype of the prosthesis.</figcaption>
+   <figcaption>CAD model of the novel prosthesis and 3D printed prototype of the prosthesis.</figcaption>
 </figure>
 
 ## Skills

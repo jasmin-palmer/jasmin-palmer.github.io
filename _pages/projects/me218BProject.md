@@ -58,11 +58,11 @@ For our final report, we made a website!
 
 I was responsible for the complete mechanical design and manufacture. I designed and fabricated the chassis, drivetrain, bumpers, electromagnet housing, and all electronic component mounts.
 
-<figure class="third">
+<figure class="full">
    <img src="/assets/images/ME218B_Project/CAD_Final_isoview.png">
    <img src="/assets/images/ME218B_Project/CAD_Final_BottomView.png">
    <img src="/assets/images/ME218B_Project/CAD_Final_inField.png">
-    <figcaption>Final CAD models of our robot!</figcaption>
+   <figcaption>Final CAD models of our robot!</figcaption>
 </figure>
 
 <figure class="full">

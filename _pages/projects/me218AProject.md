@@ -35,9 +35,15 @@ For our final report, we made a website!
 I was responsible for the complete mechanical design and manufacture. I designed and fabricated the chassis, rack and pinion risers for the produce, rocket, levers, and all electronic component mounts.
 
 <figure class="half">
-   <img src="/assets/images/2THU_Project/MTP04_00_003 iso.png">
-   <img src="/assets/images/2THU_Project/MTP_isoview.jpg">
-    <figcaption>CAD model of the novel prosthesis and 3D printed prototype of the prosthesis.</figcaption>
+   <img src="/assets/images/ME218A_Project/full-assem-iso_orig.png">
+   <img src="/assets/images/ME218A_Project/ME218AFinalProject.jpg">
+   <figcaption>The full POTATO!</figcaption>
+</figure>
+
+<figure class="half">
+   <img src="/assets/images/ME218A_Project/veggie-mechanism-array_orig.png">
+   <img src="/assets/images/ME218A_Project/labeled-pic2_orig.png">
+   <figcaption>CAD model of the rack and pinion risers for the produce.</figcaption>
 </figure>
 
 ## Skills

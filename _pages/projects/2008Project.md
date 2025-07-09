@@ -60,7 +60,7 @@ My main contributions to this project were:
 -->
 
 <figure class="half">
-   <img src="/assets/images/2008_Project/TotoroYoYo_Exploded.jpg.jpg">
+   <img src="/assets/images/2008_Project/TotoroYoYo_Exploded.jpg">
    <img src="/assets/images/2008_Project/TotoroYoYo.jpg">
     <figcaption>Screenshot of the exploded view of the "Totoro-yo" CAD model and image of the final "Totoro-yo".</figcaption>
 </figure>
