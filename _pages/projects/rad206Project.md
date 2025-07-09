@@ -34,7 +34,7 @@ This was a solo project. I was responsible for the design, manufacture, and prog
 <figure class="full">
   <a href="/assets/images/RAD206_Project/Anatomy.png"><img src="/assets/images/RAD206_Project/Final Project Poster FINAL.jpg"></a>
   <figcaption>Poster describing the project.</figcaption>
-</figure
+</figure>
 
 <figure class="full">
   <a href="/assets/images/RAD206_Project/DemoSetup.jpg"><img src="/assets/images/RAD206_Project/DemoSetup.jpg"></a>
