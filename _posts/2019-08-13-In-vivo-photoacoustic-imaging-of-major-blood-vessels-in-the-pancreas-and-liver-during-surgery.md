@@ -15,9 +15,9 @@ share: false
 related: true
 ---
 
-Kempski, K.M., Wiacek, A., Graham, M., González, E., Goodson, B., Allman, D., Palmer, J.E., Hou, H., Beck, S., He, J. and Bell, M.A.L. , “In vivo photoacoustic imaging of major blood vessels in the pancreas and liver during surgery,” Journal of Biomedical Optics 24(12):121905, 2019. 
+Kempski, K.M., Wiacek, A., Graham, M., González, E., Goodson, B., Allman, D., **Palmer, J.E.**, Hou, H., Beck, S., He, J. and Bell, M.A.L. , “In vivo photoacoustic imaging of major blood vessels in the pancreas and liver during surgery,” Journal of Biomedical Optics 24(12):121905, 2019. 
 
-## Contributions
+## My Contributions
 
 My contributions to this work...
 

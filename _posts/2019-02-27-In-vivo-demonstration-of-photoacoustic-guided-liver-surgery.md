@@ -15,9 +15,9 @@ share: false
 related: true
 ---
 
-Kempski, K.M., Wiacek, A., Palmer, J., Graham, M., González, E., Goodson, B., Allman, D., Hou, H., Beck, S., He, J. and Bell, M.A.L., “In vivo demonstration of photoacoustic-guided liver surgery”, Proc. SPIE, Photons Plus Ultrasound: Imaging and Sensing, 10878:108782T, 2019.
+Kempski, K.M., Wiacek, A., **Palmer, J.**, Graham, M., González, E., Goodson, B., Allman, D., Hou, H., Beck, S., He, J. and Bell, M.A.L., “In vivo demonstration of photoacoustic-guided liver surgery”, Proc. SPIE, Photons Plus Ultrasound: Imaging and Sensing, 10878:108782T, 2019.
 
-## Contributions
+## My Contributions
 
 My contributions to this work...
 
