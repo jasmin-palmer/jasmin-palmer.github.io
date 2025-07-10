@@ -21,8 +21,7 @@ share: false
 related: true
 ---
 
-## Abstract
-
+## Abstract:
 Abdominal surgeries carry considerable risk of gastrointestinal and intra-abdominal hemorrhage, which could possibly cause patient death. Photoacoustic imaging is one solution to overcome this challenge by providing visualization of major blood vessels during surgery. We investigate the feasibility of in vivo blood vessel visualization for photoacoustic-guided liver and pancreas surgeries. In vivo photoacoustic imaging of major blood vessels in these two abdominal organs was successfully achieved after a laparotomy was performed on two swine. Three-dimensional photoacoustic imaging with a robot-controlled ultrasound (US) probe and color Doppler imaging were used to confirm vessel locations. Blood vessels in the in vivo liver were visualized with energies of 20 to 40 mJ, resulting in 10 to 15 dB vessel contrast. Similarly, an energy of 36 mJ was sufficient to visualize vessels in the pancreas with up to 17.3 dB contrast. We observed that photoacoustic signals were more focused when the light source encountered a major vessel in the liver. This observation can be used to distinguish major blood vessels in the image plane from the more diffuse signals associated with smaller blood vessels in the surrounding tissue. A postsurgery histopathological analysis was performed on resected pancreatic and liver tissues to explore possible laser-related damage. Results are generally promising for photoacoustic-guided abdominal surgery when the US probe is fixed and the light source is used to interrogate the surgical workspace. These findings are additionally applicable to other procedures that may benefit from photoacoustic-guided interventional imaging of the liver and pancreas (e.g., biopsy and guidance of radiofrequency ablation lesions in the liver).
 
 ## My Contributions

@@ -21,8 +21,7 @@ share: false
 related: true
 ---
 
-## Abstract
-
+## Abstract:
 Liver surgeries carry considerable risk of injury to major blood vessels, which can lead to hemorrhaging and possibly patient death. Photoacoustic imaging is one solution to enable intraoperative visualization of blood vessels, which has the potential to reduce the risk of accidental injury to these blood vessels during surgery. This paper presents our initial results of a feasibility study, performed during laparotomy procedures on two pigs, to determine in vivo vessel visibility for photoacoustic-guided liver surgery. Delay-and-sum beamforming and coherence-based beamforming were used to display photoacoustic images and differentiate the signal inside blood vessels from surrounding liver tissue. Color Doppler was used to confirm vessel locations. Results lend insight into the feasibility of photoacoustic-guided liver surgery when the ultrasound probe is fixed and the light source is used to interrogate the surgical workspace.
 
 ## My Contributions
