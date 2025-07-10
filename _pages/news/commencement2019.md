@@ -33,7 +33,7 @@ I graduated from MIT with an SB in Mechanical Engineering with a Concentration i
 
 
 <figure class="full">
-    <img src="/assets/images/Commencement_2019/GradCap.jpeg">
+    <img src="/assets/images/Commencement_2019/GradCap.jpg">
     <figcaption>MNy last last-night MIT project!</figcaption>
 </figure>
 
@@ -43,6 +43,6 @@ I graduated from MIT with an SB in Mechanical Engineering with a Concentration i
 I flipped my Brass Rat!!!! 
 
 <figure class="full">
-    <img src="/assets/images/Commencement_2019/BrassRat.jpeg">
+    <img src="/assets/images/Commencement_2019/BrassRat.jpg">
     <figcaption></figcaption>
 </figure>

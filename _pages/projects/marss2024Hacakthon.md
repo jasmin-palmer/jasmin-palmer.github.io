@@ -39,7 +39,7 @@ Human perception during minimally invasive surgery is often limited, making thes
 
 ## My Contributions
 
-I implemented the Finger-Proxy haptic rendering algorithm (Ruspini et al., 1997) in Unity and used the computed forces to control a custom servo-driven haptic device (Palmer et al., 2022) via serial communication, enabling real-time tactile interaction with virtual objects.
+I implemented the Finger-Proxy haptic rendering algorithm (Ruspini et al., 1997) in Unity and used the computed forces to control a custom servo-driven haptic device (["Palmer, et al., 2022](https://ieeexplore.ieee.org/document/9981392)) via serial communication, enabling real-time tactile interaction with virtual objects.
 
 <!--
 [MARSS Project GitHub](https://github.com/jpalms1/RAD206-FinalProject){: .btn .btn--primary}
@@ -52,4 +52,4 @@ I implemented the Finger-Proxy haptic rendering algorithm (Ruspini et al., 1997)
 
 ## Skills
 
-Unity, C#, Arduino, 3D Printing, Haptics
+Mixed Reality, Unity, C#, Haptic Rendering, Arduino, C++, 3D Printing

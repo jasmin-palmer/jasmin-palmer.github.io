@@ -57,7 +57,7 @@ gallery1:
     alt: "WHC 2023"
     title: "WHC 2023"
 
-  - url: /news/BARS2023/
+  - url: /news/bars2023/
     image_path: /assets/images/BARS2023_News/JasminPoster.jpeg
     alt: "BARS 2023"
     title: "BARS 2023"

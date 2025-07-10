@@ -22,30 +22,31 @@ share: false
 related: true
 ---
 
-## Description
+## About MARSS
 
-...
+[MARSS 2024 Website](https://medicalaugmentedreality.org/mar2024.html){: .btn .btn--primary}
 
 ## About the Project
 
-Our group was asked to develop an assistive robot that can work side by side with a patient for daily chores.
+We were tasked with developing a medical mixed reality simulation integrating haptic and auditory augmentations for laproscopic procedures. The MARSS staff provided a demo Unity scene containing procine anatomy and the laparoscopic tools' pose were controlled by pre-recorded tracking data from an *in vivo* procedure on a pig abdomen.
 
-The scenario presented to us was:
+### Background:
 
-* A hemiplegic patient is unable to move one arm
-* The patient needs assistance in dressing and bed-making
+Human perception during minimally invasive surgery is often limited, making these procedures, despite their many advantages, less than optimal and highly challenging for surgeons. This project aims to improve surgical performance by providing comprehensive multimodal feedback on both the anatomical structures and the surgeon’s interaction with them through surgical tools.
 
-The robot must be desinged in a way so that it can complte three tasks:
-
-1. A robot arm assists the patient in pulling a drawer together with him/her, so the patient can take a garment out of the drawer
-2. The robot arm also assists the patient in donning a garment
-3. A mobile robot fetches a blanket and covers a bed with the blanket together with the patient
+### Goal:
+* Develop an AR application for multimodal interaction with anatomical structures in AR laparoscopy.
+* Design and implement multimodal feedback, particularly auditory and haptic, for enhancing tool-tissue interaction.
 
 ## My Contributions
 
-I was responsible for the design and maufacture of the 1-DoF, servo-controlled haptic device. It is the same device used in <href="https://ieeexplore.ieee.org/document/9981392"><"Palmer, et al., 2022">>. 
+I implemented the Finger-Proxy haptic rendering algorithm (Ruspini et al., 1997) in Unity and used the computed forces to control a custom servo-driven haptic device (["Palmer, et al., 2022](https://ieeexplore.ieee.org/document/9981392)) via serial communication, enabling real-time tactile interaction with virtual objects.
 
-I also developed the haptic rendering algorithm for this XR simulation as well as programmed the serial communication between virtual environment and haptic device.
+<figure class="half">
+  <a href="/assets/images/MARSS2024_News/JasminWithDemo.jpg"><img src="/assets/images/MARSS2024_News/JasminWithDemo.jpg"></a>
+  <a href="/assets/images/MARSS2024_News/MARSSDemo.jpg"><img src="/assets/images/MARSS2024_News/MARSSDemo.jpg"></a>
+  <figcaption>My certificate for completing the Medical Augmented Reality Summer School!</figcaption>
+</figure>
 
 <figure class="full">
     <img src="/assets/images/MARSS2024_News/MARSS_Certificate.jpg">
@@ -55,4 +56,4 @@ I also developed the haptic rendering algorithm for this XR simulation as well a
 
 ## Skills
 
-Unity, C#, Hpatic Rendering, Arduino, C++, 3D Printing
+Mixed Reality, Unity, C#, Haptic Rendering, Arduino, C++, 3D Printing

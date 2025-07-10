@@ -24,9 +24,9 @@ related: true
 
 ## CHARMers at a California Conference!
 
-Many CHARM members attended IEEE Haptics Symposium 2024. I gave an oral presentation of my technical conference paper (<href="https://ieeexplore.ieee.org/document/10520855"><"Palmer, et al., 2024">). 
+Many CHARM members attended IEEE Haptics Symposium 2024. I gave an oral presentation of my technical conference paper, ["Palmer, et al., 2024"](https://ieeexplore.ieee.org/document/10520855). 
 
-See more at: https://charm.stanford.edu/Main/LabNews
+See more at [our lab's website!](https://charm.stanford.edu/Main/LabNews)
 
 <figure class="full">
     <img src="/assets/images/HapticsSymposium2024_News/Lab_HS2024.jpeg">
