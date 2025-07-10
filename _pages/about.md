@@ -23,3 +23,5 @@ In short, I build systems that make digital worlds *feel* real.
 I’m passionate about haptics, electromechanical design for wearable devices, and extended reality (XR). I’m also interested in applying this work to fields like robotics, medical devices, and surgical technologies.
 
 This website showcases my portfolio — a chronicle of nearly a decade of engineering projects, from my early days at MIT to the culmination of my PhD — along with work and activities beyond what's listed on my resume. Thanks for visiting, and I hope you find something that sparks your curiosity!
+
+`.text-justify` 
