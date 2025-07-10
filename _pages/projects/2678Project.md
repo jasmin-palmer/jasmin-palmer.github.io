@@ -32,8 +32,8 @@ This was a two-person project focused on wiring and programming a line-following
 ## My Contributions
 
 <figure class="half">
-  <img src="/assets/images/2678_Project/Wiring.jpg">
-  <img src="/assets/images/2678_Project/TestLoop.jpg">
+  <a href="/assets/images/2678_Project/Wiring.jpg"><img src="/assets/images/2678_Project/Wiring.jpg"></a>
+  <a href="/assets/images/2678_Project/TestLoop.jpg"><img src="/assets/images/2678_Project/TestLoop.jpg"></a>
   <figcaption>Wiring for the self-driving robot. Robot on the Test loop.</figcaption>
 </figure>
 

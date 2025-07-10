@@ -56,4 +56,4 @@ I implemented the Finger-Proxy haptic rendering algorithm (Ruspini et al., 1997)
 
 ## Skills
 
-Mixed Reality, Unity, C#, Haptic Rendering, Arduino, C++, 3D Printing
+Mixed Reality, Medical Simulaitons, Unity, C#, Haptic Rendering, Arduino, C++, 3D Printing

@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "ME218B Class Final Project"
+title: "Smart Product Design Applications (ME218B) Class Final Project"
 permalink: /projects/me218BProject/
 author_profile: true
 header:

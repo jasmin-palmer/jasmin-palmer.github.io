@@ -46,10 +46,10 @@ I implemented the Finger-Proxy haptic rendering algorithm (Ruspini et al., 1997)
 -->
 
 <figure class="full">
-   <img src="/assets/images/MARSS2024_Project/MARSS2024-FingerProxy-Cropped.png">
-    <figcaption>Screenshot of Virtual Porcine Anatomy in Unity Scene.</figcaption>
+  <a href="/assets/images/MARSS2024_Project/MARSS2024-FingerProxy-Cropped.png"><img src="/assets/images/MARSS2024_Project/MARSS2024-FingerProxy-Cropped.png"></a>
+  <figcaption>Screenshot of Virtual Porcine Anatomy in Unity Scene.</figcaption>
 </figure>
 
 ## Skills
 
-Mixed Reality, Unity, C#, Haptic Rendering, Arduino, C++, 3D Printing
+Mixed Reality, Medical Simulaitons, Unity, C#, Haptic Rendering, Arduino, C++, 3D Printing

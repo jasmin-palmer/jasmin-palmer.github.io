@@ -22,9 +22,9 @@ share: false
 related: true
 ---
 
-## PhinisheD!
+## 🎓PhinisheD!🎓
 
-🎓 I'm PhDone! PhinisheD! 🎓 Whichever you prefer. 😁 
+🎓 I'm PhDone! PhinisheD! 😁 
 
 On Sunday, I graduated from Stanford University with a PhD in Mechanical Engineering! 🤖
 

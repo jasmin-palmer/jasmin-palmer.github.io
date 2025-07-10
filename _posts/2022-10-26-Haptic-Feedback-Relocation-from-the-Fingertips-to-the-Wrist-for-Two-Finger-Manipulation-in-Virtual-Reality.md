@@ -26,7 +26,7 @@ Relocation of haptic feedback from the fingertips to the wrist has been consider
 
 ## My Contributions
 
-As the first author, I led the design and development of the virtual environment used in the study. I was responsible for designing the user study protocol, conducting data analysis, and creating visualizations to effectively communicate our findings.
+As the first author, I led the design and development of the virtual environment used in the study. I was responsible for designing and manufacturing the haptic device used in this study, designing the user study protocol, conducting data analysis, and creating visualizations to effectively communicate our findings.
 
 [See Full Paper Here!](https://ieeexplore.ieee.org/abstract/document/9981392){: .btn .btn--primary}
 

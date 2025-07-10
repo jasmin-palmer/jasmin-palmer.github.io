@@ -27,23 +27,23 @@ Medical Mixed Reality simulation with haptic augmentations for simulating lumbar
 
 ## My Contributions
 
-This was a solo project. I was responsible for the design, manufacture, and programming of all components of this simulation and the accompanying haptic device.
+This was a solo project. I was responsible for the design, manufacture, and programming of all components of this simulation and the accompanying haptic device. I was also responsible for the design and manufacture of the haptic device used in this project, which is the same device used in ["Palmer, et al., 2022](https://ieeexplore.ieee.org/document/9981392).
 
 [Final Project GitHub](https://github.com/jpalms1/RAD206-FinalProject){: .btn .btn--primary}
 
 <figure class="full">
-  <a> href="/assets/images/RAD206_Project/Final Project Poster FINAL.jpg"><img src="/assets/images/RAD206_Project/Final Project Poster FINAL.jpg"></a>
+  <a href="/assets/images/RAD206_Project/Final Project Poster FINAL.jpg"><img src="/assets/images/RAD206_Project/Final Project Poster FINAL.jpg"></a>
   <figcaption>Poster describing the project.</figcaption>
 </figure>
 
 <figure class="full">
-  <a> href="/assets/images/RAD206_Project/DemoSetup.jpg"><img src="/assets/images/RAD206_Project/DemoSetup.jpg"></a>
+  <a href="/assets/images/RAD206_Project/DemoSetup.jpg"><img src="/assets/images/RAD206_Project/DemoSetup.jpg"></a>
   <figcaption>Setup of the XR demonstration at the showcase.</figcaption>
 </figure>
 
 <figure class="full">
-  <a> href="/assets/images/RAD206_Project/Anatomy.png"><img src="/assets/images/RAD206_Project/Anatomy.png"></a>
-  <a> href="/assets/images/RAD206_Project/AnatomyClose.jpg"><img src="/assets/images/RAD206_Project/AnatomyClose.jpg"></a>
+  <a href="/assets/images/RAD206_Project/Anatomy.png"><img src="/assets/images/RAD206_Project/Anatomy.png"></a>
+  <a href="/assets/images/RAD206_Project/AnatomyClose.jpg"><img src="/assets/images/RAD206_Project/AnatomyClose.jpg"></a>
   <figcaption>Screenshot of Virtual Anatomy in Unity Scene.</figcaption>
 </figure>
 
@@ -51,4 +51,4 @@ You can also read about the showcase in [News](/news/rad206FinalProjectNews/){: 
 
 ## Skills
 
-Unity, C#, Arduino, Computer-Aided Design (Solidworks), 3D Printing, Haptic Modeling and Rendering
+Mixed Reality, Medical Simulations, Unity, C#, Arduino, Computer-Aided Design (Solidworks), 3D Printing, Haptic Modeling and Rendering

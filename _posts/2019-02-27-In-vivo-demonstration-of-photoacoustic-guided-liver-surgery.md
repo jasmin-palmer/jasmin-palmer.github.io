@@ -27,13 +27,13 @@ Liver surgeries carry considerable risk of injury to major blood vessels, which 
 
 ## My Contributions
 
-This paper stems from my summer research as a Leadership Alliance Scholar in the PULSE Lab at Johns Hopkins University (PI: Dr. Muyinatu (Bisi) Bell). During this internship, I contributed to the development of custom light delivery tools and autonomous robotic visual servoing for photoacoustic-guided liver surgery. I also presented this work at both the Leadership Alliance National Symposium and the Johns Hopkins Summer Research Symposium.
+This paper stems from my summer research as a Leadership Alliance Scholar in the PULSE Lab at Johns Hopkins University (PI: [Dr. Muyinatu (Bisi) Bell](https://www.bme.jhu.edu/people/faculty/muyinatu-bisi-bell/)). During this internship, I contributed to the development of custom light delivery tools and autonomous robotic visual servoing for photoacoustic-guided liver surgery. I also presented this work at both the Leadership Alliance National Symposium and the Johns Hopkins Summer Research Symposium.
 
 [See Full Paper Here!](https://doi.org/10.1117/12.2510500){: .btn .btn--primary}
 
 ### Leadership Alliance
 
-From their website: `link: https://theleadershipalliance.org/who-we-are`
+From their [Leadership Alliance website](https://theleadershipalliance.org/who-we-are)
 
 'The Leadership Alliance, founded at Brown University in 1992 as a partnership of 23 institutions, came together to develop underrepresented students into outstanding leaders and role models in academia, business, and the public sector. Today, this consortium has grown to 41 partners and has provided research, mentoring, and networking experiences to over 6000 scholars. The Leadership Alliance uses a time-tested model to leverage its collective resources to address the shortage of individuals from historically underrepresented groups in doctoral training programs, academia, and the broader research workforce.'
 

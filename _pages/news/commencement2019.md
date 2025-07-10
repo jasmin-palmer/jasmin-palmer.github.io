@@ -34,7 +34,7 @@ I graduated from MIT with an SB in Mechanical Engineering with a Concentration i
 
 <figure class="full">
     <img src="/assets/images/Commencement_2019/GradCap.jpg">
-    <figcaption>MNy last last-night MIT project!</figcaption>
+    <figcaption>My last last-night MIT project!</figcaption>
 </figure>
 
 
