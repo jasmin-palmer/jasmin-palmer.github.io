@@ -32,18 +32,18 @@ This was a solo project. I was responsible for the design, manufacture, and prog
 [Final Project GitHub](https://github.com/jpalms1/RAD206-FinalProject){: .btn .btn--primary}
 
 <figure class="full">
-  <a href="/assets/images/RAD206_Project/Final Project Poster FINAL.jpg"><img src="/assets/images/RAD206_Project/Final Project Poster FINAL.jpg"></a>
+  <a> href="/assets/images/RAD206_Project/Final Project Poster FINAL.jpg"><img src="/assets/images/RAD206_Project/Final Project Poster FINAL.jpg"></a>
   <figcaption>Poster describing the project.</figcaption>
 </figure>
 
 <figure class="full">
-  <a href="/assets/images/RAD206_Project/DemoSetup.jpg"><img src="/assets/images/RAD206_Project/DemoSetup.jpg"></a>
+  <a> href="/assets/images/RAD206_Project/DemoSetup.jpg"><img src="/assets/images/RAD206_Project/DemoSetup.jpg"></a>
   <figcaption>Setup of the XR demonstration at the showcase.</figcaption>
 </figure>
 
 <figure class="full">
-  <a href="img src="/assets/images/RAD206_Project/Anatomy.png"><img src="/assets/images/RAD206_Project/Anatomy.png"></a>
-  <a href="/assets/images/RAD206_Project/AnatomyClose.jpg"><img src="/assets/images/RAD206_Project/AnatomyClose.jpg"></a>
+  <a> href="/assets/images/RAD206_Project/Anatomy.png"><img src="/assets/images/RAD206_Project/Anatomy.png"></a>
+  <a> href="/assets/images/RAD206_Project/AnatomyClose.jpg"><img src="/assets/images/RAD206_Project/AnatomyClose.jpg"></a>
   <figcaption>Screenshot of Virtual Anatomy in Unity Scene.</figcaption>
 </figure>
 
