@@ -23,19 +23,20 @@ related: true
 
 ## About the Project
 
-Unity mini-game!
+To create a custom interactive virtual environment, I designed a Unity scene inspired by the 1986 game "The Legend of Zelda". Using a Leap Motion optical tracker, the system captures the user’s hand pose, allowing them to grab a virtual sword and "defeat" enemies that appear throughout the scene.
 
 ## My Contributions
 
+This was a solo project. I was responsible for all programming and asset creation detailed in the report.
 
 [EE267 Project Report](/assets/files/EE_267_Final_Project_Report.pdf){: .btn .btn--primary}
 
 <figure class="half">
    <img src="/assets/images/EE267_Project/SceneView_Inactive.png">
-   <img src="/assets/images/EE267_Project/MTP_isoview.jpg">
-    <figcaption>CAD model of the novel prosthesis and 3D printed prototype of the prosthesis.</figcaption>
+   <img src="/assets/images/EE267_Project/Game_Stereo.jpg">
+   <figcaption> </figcaption>
 </figure>
 
 ## Skills
 
-Unity, C#, Computer-Aided Design (Solidworks), Blender, Haptic Modeling and Rendering
+Unity, C#, Computer-Aided Design (Solidworks), Blender, Leap Motion
