@@ -116,7 +116,7 @@ analytics:
 author:
   name             : "Jasmin E. Palmer, PhD"
   avatar           : "/assets/images/BioPhoto.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Haptics & XR Researcher"
+  bio              : "Robotics, Haptics, & XR Researcher"
   location         : "New York, NY"
   # email            : "jasminp@alumni.stanford.edu"
   links:
