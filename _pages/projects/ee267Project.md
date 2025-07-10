@@ -33,7 +33,7 @@ This was a solo project. I was responsible for all programming and asset creatio
 
 <figure class="half">
    <img src="/assets/images/EE267_Project/SceneView_Inactive.png">
-   <img src="/assets/images/EE267_Project/Game_Stereo.jpg">
+   <img src="/assets/images/EE267_Project/Game_Stereo.png">
    <figcaption> </figcaption>
 </figure>
 
