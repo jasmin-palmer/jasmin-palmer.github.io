@@ -71,6 +71,13 @@ My main contributions to this project were:
   <figcaption>Image of the final "Performance" yo-yo.</figcaption>
 </figure>
 
+<div style="text-align: center;">
+  <video width="640" height="360" controls>
+    <source src="{{ '/assets/videos/Studio Yo-Yo _ 2.008 Fall 2017.mp4' | relative_url }}" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
 ## Skills
 
 Computer-Aided Design (Solidworks), Injection Molding, Laser Cutting, Thermoforming, Design for Manufacture, Design for Assembly, 3D Printing
