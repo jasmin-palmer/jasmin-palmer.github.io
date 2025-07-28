@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Medical Augmented Reality Summer School (MARSS) 2024 Hacakthon"
+title: "Medical Augmented Reality Summer School (MARSS) 2024 Hackathon"
 permalink: /projects/marss2024Hackathon/
 author_profile: true
 header:
