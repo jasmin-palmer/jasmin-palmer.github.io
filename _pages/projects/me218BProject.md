@@ -73,7 +73,7 @@ I was responsible for the complete mechanical design and manufacture. I designed
 
 ## Final Project Video
 
-<iframe width="640" height="360" src="https://youtu.be/sY9-LLCveAg" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/sY9-LLCveAg?si=NtIBH29zELM0X_o0" frameborder="0" allowfullscreen></iframe>
 
 ## Skills
 
