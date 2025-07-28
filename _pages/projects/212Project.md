@@ -72,6 +72,11 @@ I was responsible for the design and maufacture of the 1-DoF, servo-controlled g
   <figcaption>Robot Selfie!!</figcaption>
 </figure>
 
+
+## Gripper Test Video
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/S3CzpNkAuDY?si=gAm-5JKQkwwQRBMU" frameborder="0" allowfullscreen></iframe>
+
 ## Skills
 
 Computer-Aided Design (Solidworks), Laser Cutting, 3D Printing, Arduino, C++

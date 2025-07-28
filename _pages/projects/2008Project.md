@@ -73,7 +73,7 @@ My main contributions to this project were:
 
 ## Final Project Video
 
-<iframe width="640" height="360" src="https://www.youtube.com/watch?v=8jz43MYIyp4&ab_channel=KellyChen" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/8h_Xnt3j-Co?si=AmrELw4hulKzv1ex" frameborder="0" allowfullscreen></iframe>
 
 ## Skills
 

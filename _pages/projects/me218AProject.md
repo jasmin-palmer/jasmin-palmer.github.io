@@ -71,6 +71,10 @@ I was responsible for the complete mechanical design and manufacture. I designed
   <figcaption>CAD model of the rack and pinion risers for the produce.</figcaption>
 </figure>
 
+## Final Project Video
+
+<iframe width="640" height="360" src=""https://www.youtube.com/embed/vlIIudGW1Xc?si=6eyNUlnZOia9TbbF" frameborder="0" allowfullscreen></iframe>
+
 ## Skills
 
 Computer-Aided Design (Solidworks), Laser Cutting, 3D Printing, Hand Tools, C

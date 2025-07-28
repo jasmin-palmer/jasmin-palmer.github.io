@@ -52,6 +52,11 @@ I implemented the Finger-Proxy haptic rendering algorithm (Ruspini et al., 1997)
   <figcaption>Screenshot of Virtual Porcine Anatomy in Unity Scene.</figcaption>
 </figure>
 
+
+## Final Demo Video
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/hteuCg2Z5cg?si=88lTbYLL7nT5rt-1" frameborder="0" allowfullscreen></iframe>
+
 ## Skills
 
 Mixed Reality, Medical Simulaitons, Unity, C#, Haptic Rendering, Arduino, C++, 3D Printing

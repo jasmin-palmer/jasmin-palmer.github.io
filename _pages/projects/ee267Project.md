@@ -37,6 +37,10 @@ This was a solo project. I was responsible for all programming and asset creatio
   <figcaption> </figcaption>
 </figure>
 
+## Final Project Video
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/gqdecyGNm_U?si=nC_38qeVi27Bw8l0" frameborder="0" allowfullscreen></iframe>
+
 ## Skills
 
 Unity, C#, Computer-Aided Design (Solidworks), Blender, Leap Motion
