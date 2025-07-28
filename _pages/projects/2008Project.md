@@ -71,12 +71,9 @@ My main contributions to this project were:
   <figcaption>Image of the final "Performance" yo-yo.</figcaption>
 </figure>
 
-<div style="text-align: center;">
-  <video width="640" height="360" controls>
-    <source src="{{ '/assets/videos/Studio Yo-Yo _ 2.008 Fall 2017.mp4' | relative_url }}" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</div>
+## Final Project Video
+
+<iframe width="640" height="360" src="https://www.youtube.com/watch?v=8jz43MYIyp4&ab_channel=KellyChen" frameborder="0" allowfullscreen></iframe>
 
 ## Skills
 
