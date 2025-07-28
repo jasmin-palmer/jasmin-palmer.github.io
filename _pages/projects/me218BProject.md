@@ -70,6 +70,11 @@ I was responsible for the complete mechanical design and manufacture. I designed
   <figcaption>Our robot!</figcaption>
 </figure>
 
+
+## Final Project Video
+
+<iframe width="640" height="360" src="https://youtu.be/sY9-LLCveAg" frameborder="0" allowfullscreen></iframe>
+
 ## Skills
 
 Computer-Aided Design (Solidworks), Laser Cutting, 3D Printing, Hand Tools, C
