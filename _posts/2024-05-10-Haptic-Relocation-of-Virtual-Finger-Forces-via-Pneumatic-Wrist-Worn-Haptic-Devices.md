@@ -32,4 +32,4 @@ As the first author, I led the design and development of the virtual environment
 
 ## Skills
 
-Experiment Design, Scienific Writing, Data Analysis, Data Visualization, Virtual Reality, CHAI3D, 3D Printing, MATLAB
+Experiment Design, Scientific Writing, Data Analysis, Data Visualization, Virtual Reality, CHAI3D, 3D Printing, MATLAB
