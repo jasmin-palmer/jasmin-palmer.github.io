@@ -2,7 +2,7 @@
 title: "Fourigami: A 4-Degree-of-Freedom, Force-Controlled, Origami, Finger Pad Haptic Device"
 header:
   overlay_color: "#8d64a3"
-tagline: 'Winston C., Choi H., Jitosho R., Zhakypov Z., *Palmer J. E.*, Cutkosky M., and Okamura, A. M.,  "Fourigami: A 4-Degree-of-Freedom, Force-Controlled, Origami, Finger Pad Haptic Device", ," in IEEE Transactions on Robotics, doi: 10.1109/TRO.2025.3593084.'
+tagline: 'Winston C., Choi H., Jitosho R., Zhakypov Z., **Palmer J. E.**, Cutkosky M., and Okamura, A. M.,  "Fourigami: A 4-Degree-of-Freedom, Force-Controlled, Origami, Finger Pad Haptic Device", ," in IEEE Transactions on Robotics, doi: 10.1109/TRO.2025.3593084.'
 date: 2025-07-28
 show_date: true
 tags:
