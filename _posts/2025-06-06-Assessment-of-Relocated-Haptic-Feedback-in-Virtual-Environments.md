@@ -5,7 +5,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/palmer_phd_dissertation_2025.png
   caption: "Palmer, 2025"
-tagline: '**J. E. Palmer** "Assessment of Relocated Haptic Feedback in Virtual Environments", 2024 IEEE Haptics Symposium (HAPTICS), Long Beach, CA, USA, 2024, pp. 315-320, doi: 10.1109/HAPTICS59260.2024.10520855.'
+tagline: '**J. E. Palmer**, "Assessment of Relocated Haptic Feedback in Virtual Environments." Order No. 32200936, Stanford University, United States -- California, 2025.'
 date: 2025-06-06
 show_date: true
 tags:
@@ -27,7 +27,7 @@ Relocation of haptic feedback from the fingertips to the wrist enables haptic in
 
 ## My Contributions
 
-As the first author (and ), I led the design and development of the virtual environment used in the study. I was responsible for designing the user study protocol, conducting data analysis, and creating visualizations to effectively communicate our findings.
+As the first author, I led the design and development of the virtual environment used in the study. I was responsible for designing the user study protocol, conducting data analysis, and creating visualizations to effectively communicate our findings.
 
 [See Full Dissertation Here!](https://www.proquest.com/docview/3238118287?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses){: .btn .btn--primary}
 
